@@ -88,3 +88,36 @@
 | Day 3 | Implementation (Machine Learning model development) |
 | Day 4 | Integration + Testing |
 | Day 5 | Validation + Capstone |
+
+### 5. Requirement Analysis
+#### 5.1 Functional Requirements
+The system should:
++ Accept food details.
++ Accept nutritional indicators (per 100 g).
++ Validate user inputs.
++ Validate nutrient and serving-size ranges.
++ Process input data.
++ Load the trained ML model.
++ Predict calories per serving.
++ Classify foods based on predicted calories.
++ Determine the diet-caution level.
++ Generate actionable dietary recommendations.
++ Display results through the GUI.
++ Handle invalid inputs.
++ Provide a clear/reset option.
++ Provide an exit option.
++ Support batch CSV prediction.
++ Store prediction results (CSV master log + separate XLSX workbook).
+
+#### 5.2 Non Functional Requirements:
+The application should be:
++ User-friendly
++ Easy to understand
++ Fast in generating predictions
++ Reliable
++ Maintainable
++ Scalable
++ Robust against invalid inputs
++ Secure with respect to user dietary data
++ Easy to test
++ Suitable for academic demonstration
