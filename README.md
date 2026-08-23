@@ -139,3 +139,52 @@ The user should be able to:
 + Receive actionable dietary recommendations.
 + Clear the entered information.
 + Process multiple food records using a CSV file.
+
+
+#### 5.5 Identify System Inputs
+The system uses:
++ Food Name
++ Serving Size (g)
++ Protein (g per 100 g)
++ Carbohydrates (g per 100 g)
++ Total Fat (g per 100 g)
++ Dietary Fiber (g per 100 g)
++ Sugars (g per 100 g)
+
+The six nutritional indicators used by the Machine Learning model are:
++ Serving Size (g)
++ Protein (g per 100 g)
++ Carbohydrates (g per 100 g)
++ Total Fat (g per 100 g)
++ Dietary Fiber (g per 100 g)
++ Sugars (g per 100 g)
+
+Food Name is used for identification and record keeping and is not used as an ML feature. Every saved record also gets an automatic Timestamp.
+
+| Parameter | Example |
+|:----------|:--------|
+| Serving Size | 150 g |
+| Protein | 28 g/100 g |
+| Carbohydrates | 0 g/100 g |
+| Total Fat | 3.6 g/100 g |
+| Dietary Fiber | 0 g/100 g |
+| Sugars | 0 g/100 g |
+
+#### 5.6 Identify System Outputs
+###### 5.6.1 Calorie Prediction
+  + Predicted Calories (kcal per serving)
+  + Low Calorie
+  + Moderate Calorie
+  + High Calorie
+
+###### 5.6.2 Additional Outputs
+  + Diet-caution level
+  + Actionable dietary recommendation
+  + Prediction record
+  + Batch prediction results
+
+###### Example
+__Prediction:__ Moderate Calorie \
+__Predicted Calories:__ 197.58 kcal \
+__Caution:__ Medium Caution \
+__Recommendation:__ Fits into a balanced diet; keep portions consistent with your daily calorie goal.
