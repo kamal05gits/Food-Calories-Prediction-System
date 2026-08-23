@@ -121,3 +121,21 @@ The application should be:
 + Secure with respect to user dietary data
 + Easy to test
 + Suitable for academic demonstration
+
+#### 5.3 Identify the Users
+Primary Users may include:
+  + Diet-conscious individuals
+  + Nutritionists and dietitians
+  + Fitness trainers and gym members
+  + Health / wellness application developers
+
+#### 5.4 User Requirements
+The user should be able to:
++ Enter food and nutrition information.
++ Submit the information for analysis.
++ View the predicted calories for the serving.
++ Understand the food's calorie classification.
++ Understand the diet-caution level.
++ Receive actionable dietary recommendations.
++ Clear the entered information.
++ Process multiple food records using a CSV file.
