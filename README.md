@@ -66,3 +66,25 @@
   <br>
   End
 </p>
+
+#### 4. Project Mapping:
+
+| V-Model Stage           | Smart Student Project                                      |
+|:------------------------|:-----------------------------------------------------------|
+| Requirement Analysis    | Identify student performance prediction requirements       |
+| System Design           | Design ML workflow, application architecture and GUI       |
+| Implementation          | Develop Python + ML + Tkinter application                  |
+| Integration             | Integrate GUI, trained model and recommendation logic      |
+| Testing                 | Test input validation, prediction and batch processing     |
+| Validation              | Evaluate model using R², RMSE, MAE and cross-validation    |
+| Demonstration           | Present working student performance prediction application |
+
+### Day-Wise Plan
+
+| Day   | Activity |
+|:------|:---------|
+| Day 1 | Requirement Analysis (+ console prototype, no ML/Tk) |
+| Day 2 | System Design + UI (Tkinter frames, layout, events) |
+| Day 3 | Implementation (Machine Learning model development) |
+| Day 4 | Integration + Testing |
+| Day 5 | Validation + Capstone |
