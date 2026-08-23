@@ -188,3 +188,293 @@ __Prediction:__ Moderate Calorie \
 __Predicted Calories:__ 197.58 kcal \
 __Caution:__ Medium Caution \
 __Recommendation:__ Fits into a balanced diet; keep portions consistent with your daily calorie goal.
+
+#### 6. Project Modular Application Development
+Create separate modules/functions for:
+```text
+validate_inputs()
+predict_single()
+predict_batch_csv()
+clear_fields()
+classify_food()
+generate_recommendation()
+load_dataset()
+train()
+append_to_master_csv()
+append_to_master_xlsx()
+```
+
+The main responsibilities are divided among:
+```text
+main.py          -> full Tkinter app: validation, prediction, batch CSV, storage
+functions.py     -> Day 1 console prototype (rule-based Atwater estimate)
+fci.py           -> classification + recommendation logic (food intelligence)
+train_model.py   -> dataset creation, cleaning, training, evaluation, saving
+app.py           -> simple Tkinter prototype GUI (rule-based fallback; also logs every entry to CSV + XLSX)
+api.py           -> FastAPI prediction service (/health, /predict)
+test_operations.py -> Day 4 testing: executes the Test Operation Table
+```
+
+#### 7. From Requirements to System Design
+##### __7.1 Input__
++ Food Name
++ Serving Size (g)
++ Protein (g per 100 g)
++ Carbohydrates (g per 100 g)
++ Total Fat (g per 100 g)
++ Dietary Fiber (g per 100 g)
++ Sugars (g per 100 g)
+
+##### __7.2 Processing__
++ Validate input
++ Prepare ML features
++ Load trained Random Forest model
++ Predict calories per serving
++ Limit predicted calories to the 0–2000 kcal range
++ Determine calorie classification
++ Determine diet-caution level
++ Generate actionable recommendation
++ Store prediction result (CSV + XLSX)
+
+##### __7.3 Output__
++ Predicted calories (kcal)
++ Calorie category
++ Diet-caution level
++ Actionable recommendation
++ Saved prediction record (CSV + XLSX)
+
+#### 8. Proposed System Architecture
+```mermaid
+flowchart LR
+    A(( Tkinter UI - Food Data Entry )) --> B(( Input Validation ))
+    B --> C(( Feature Preparation ))
+    C --> D(( Random Forest Regression Model ))
+    D --> E(( Predicted Calories ))
+    E --> F(( Calorie Classification ))
+    F --> G(( Diet-Caution Level ))
+    G --> H(( Actionable Recommendation ))
+    H --> I(( Display Result ))
+    I --> J(( Save Prediction Record ))
+```
+
+#### 9. UI Design Requirements
+The application must contain:
+
+> __9.1. Food Information Section__
+   + Food Name
+
+> **9.2. Nutritional Information Section** (per 100 g)
+  + Serving Size
+  + Protein
+  + Carbohydrates
+  + Total Fat
+  + Dietary Fiber
+  + Sugars
+
+> **9.3. Action Section**
+  + Predict Calories
+  + Batch Predict CSV
+  + Clear
+  + Exit
+
+> **9.4. Result Section**
+  + Predicted Calories
+  + Calorie Class
+  + Diet-Caution Level
+  + Recommendation
+
+##### 10. Using Frames
+```text
+Main Window
+├── Header
+├── Food Details Frame
+├── Nutritional Metrics Frame
+├── Action / Button Frame
+└── Prediction & Recommendations Frame
+```
+
+##### 11. Workflow
+<p align="center"><br> User Enters Food Details <br> &darr; <br> User Clicks Predict Calories <br> &darr; <br> Button Generates Event <br> &darr; <br> Callback Function Executes <br> &darr; <br> Input Validation Starts <br> &darr; <br> Python + ML Processing Starts <br> &darr; <br> Result Is Displayed and Saved <br></p>
+
+#### 12. Traditional Programming vs ML Programming
+
+| Traditional Programming       | ML Programming                              |
+|:------------------------------|:--------------------------------------------|
+| Rules are written manually    | Model learns relationships from data        |
+| Output = Logic + Input        | Output = Model + Input                      |
+| Fixed logic (Atwater formula) | Learned calorie patterns                    |
+| Rule changes require coding   | Model can be retrained with updated data    |
+
+##### 13. ML Workflow
+<p align="center"><br> Data Collection <br> &darr; <br> Data Loading <br> &darr; <br> Data Cleaning & Validation <br> &darr; <br> Feature Selection <br> &darr; <br> Train-Test Split <br> &darr; <br> Random Forest Model Training <br> &darr; <br> Model Evaluation <br> &darr; <br> Cross-Validation <br> &darr; <br> Model Saving <br> &darr; <br> Prediction <br></p>
+
+**Dataset Creation**
++ Use the supplied food nutrition CSV dataset.
++ Dataset contains approximately 1,000 food records spanning 12 categories (Vegetables, Fruits, Dairy, Grains & Cereals, Meat & Poultry, Seafood, Legumes, Nuts & Seeds, Snacks, Beverages, Desserts, Fast Food).
++ The dataset includes food name, category, six nutritional features and the calorie target (ground truth derived from Atwater conversion factors with small real-world noise).
+
+__Data Loading__
++ Load dataset using Pandas.
++ Check required columns.
++ Select the six ML feature columns and target column.
++ Display the number of valid records.
+
+__Data cleaning__
++ Replace infinite values.
++ Remove missing values.
++ Convert required columns to numeric values.
++ Validate nutrient ranges (0–100 g per 100 g; fiber 0–40 g).
++ Validate serving-size range (1–1000 g).
++ Validate target calorie range (0–2000 kcal).
+
+__Feature Selection__
++ Serving Size (g)
++ Protein (g)
++ Carbohydrates (g)
++ Total Fat (g)
++ Dietary Fiber (g)
++ Sugars (g)
+
+__Target Variable__
++ Calories (kcal per serving)
+
+__Model Training__
++ Train a Random Forest Regression model.
++ Use an 80/20 train-test split.
++ Use 300 decision trees.
++ Use controlled tree depth and minimum leaf size.
++ Use random_state = 42 for reproducibility.
+
+__Model Evaluation__
++ Calculate R² score.
++ Calculate Root Mean Squared Error (RMSE).
++ Calculate Mean Absolute Error (MAE).
++ Perform 5-Fold Cross-Validation.
++ Analyze feature importance.
+
+__Prediction__
++ Load the saved Random Forest model.
++ Accept new food input.
++ Predict calories per serving.
++ Keep the displayed prediction within 0–2000 kcal.
++ Determine classification and diet-caution level.
++ Generate an actionable recommendation.
+
+__Save Model__
++ Save the trained model using Joblib.
++ Store the model as `calorie_model.pkl`.
+
+__Prediction Storage__
++ Store individual and batch prediction records in `food_prediction.csv`.
++ Mirror every user entry and its prediction into the separate Excel workbook `food_prediction.xlsx` (sheet "Food Predictions") using OpenPyXL.
+
+#### 14. Problem Type
+**For this Project:**
+
++ **Regression Problem** \
+The primary Machine Learning task is regression.
+
+Output:
+  + Calories per serving (kcal, 0–2000)
+
+The Random Forest Regression model predicts a continuous calorie value.
+
++ **Classification / Diet-Caution Categorization** \
+The predicted calories are converted into understandable calorie categories:
+
+  + Low Calorie
+  + Moderate Calorie
+  + High Calorie
+
+Caution levels are:
+
+  + Low Caution
+  + Medium Caution
+  + High Caution
+
+The classification and caution level are generated after the regression prediction; the trained ML model itself is a regression model.
+
+#### 15. Model selection
+**Algorithm Used for model training**
+
++ Random Forest Regressor
+
+The model configuration includes:
++ `n_estimators = 300`
++ `max_depth = 10`
++ `min_samples_leaf = 2`
++ `random_state = 42`
++ `n_jobs = -1`
+
+**Model Evaluation**
+
++ R² Score
++ RMSE
++ MAE
++ 5-Fold Cross-Validation
++ Feature Importance
+
+**Why Random Forest?**
+
++ Handles non-linear relationships (e.g. serving-size × nutrient interactions).
++ Works well with structured/tabular nutrition data.
++ Can capture interactions between nutritional features.
++ Does not require feature scaling for this dataset.
++ Provides feature importance.
++ Offers a strong baseline for calorie prediction.
+
+**Model Performance**
+
+Run:
+
+```bash
+python train_model.py
+```
+
+Results from the current execution of `train_model.py`:
+
+| Metric | Value |
+|:-------|:------|
+| Train / Test records | 800 / 200 |
+| Hold-out R² | 0.9611 |
+| Hold-out RMSE | 31.80 kcal |
+| Hold-out MAE | 21.99 kcal |
+| 5-Fold CV R² | 0.9604 (± 0.0044) |
+| 5-Fold CV MAE | 23.91 kcal (± 1.09) |
+
+**Feature Importance**
+
+| Feature | Importance |
+|:--------|:-----------|
+| Serving Size (g) | 0.4342 |
+| Total Fat (g) | 0.3132 |
+| Carbohydrates (g) | 0.2023 |
+| Protein (g) | 0.0312 |
+| Sugars (g) | 0.0114 |
+| Dietary Fiber (g) | 0.0078 |
+
+#### 16. Improving the model
++ Increase the dataset size.
++ Use real labelled nutrition data (e.g. USDA FoodData Central / IFCT).
++ Perform hyperparameter tuning.
++ Compare Random Forest with Linear Regression, Decision Tree Regression and Gradient Boosting.
++ Perform additional feature selection.
++ Add explainable ML techniques.
++ Add feature-importance visualizations.
++ Add more nutrients (sodium, saturated fat, vitamins).
++ Add per-meal and per-day calorie tracking.
++ Add database storage.
++ Add user authentication and diet-goal profiles.
++ Improve batch prediction reporting.
++ Add graphical dashboards.
++ Validate the model on an independent real-world dataset.
+
+---
+
+### 17. Testing — Test Operation Table
+The following table documents the test operations executed during the
+**Integration + Testing** stage of the V-Model. Every operation is
+implemented in `test_operations.py` and was executed against the trained
+`calorie_model.pkl`.
+
+```bash
