@@ -20,3 +20,49 @@
 - Display the results through a user-friendly Tkinter interface. 
 - Support batch prediction using CSV files.
 - Store every user entry and its prediction in a CSV file and a separate Excel file (food_prediction.xlsx).
+
+#### 3. Process Flow:
+
+<p align="center">
+  Start
+  <br>
+  &darr;
+  <br>
+  Enter Student Details
+  <br>
+  &darr;
+  <br>
+  Validate Input
+  <br>
+  &darr;
+  <br>
+  Prepare Input Features
+  <br>
+  &darr;
+  <br>
+  ML Prediction
+  <br>
+  &darr;
+  <br>
+  Determine Performance Level
+  <br>
+  &darr;
+  <br>
+  Determine Risk Level
+  <br>
+  &darr;
+  <br>
+  Generate Actionable Recommendation
+  <br>
+  &darr;
+  <br>
+  Display Result
+  <br>
+  &darr;
+  <br>
+  Save Prediction Record
+  <br>
+  &darr;
+  <br>
+  End
+</p>
