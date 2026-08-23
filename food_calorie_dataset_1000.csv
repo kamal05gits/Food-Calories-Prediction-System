@@ -1,0 +1,1001 @@
+Food Name,Category,Serving Size (g),Protein (g),Carbohydrates (g),Total Fat (g),Dietary Fiber (g),Sugars (g),Calories (kcal)
+Spinach,Vegetables,246.3,2.4,7.7,0.9,3.8,1.7,138.15
+Banana,Fruits,164.4,1.6,10.2,0.7,2.1,19.0,97.68
+Paneer,Dairy,194.7,6.4,5.7,14.1,0.0,12.1,339.88
+Whole Wheat Bread,Grains & Cereals,114.7,8.8,79.3,6.4,9.0,2.3,495.79
+Chicken Thigh,Meat & Poultry,155.6,19.9,2.0,19.4,0.2,0.3,415.84
+Mackerel,Seafood,143.7,17.1,0.3,7.4,0.0,0.3,198.64
+Green Peas,Legumes,114.0,9.2,27.1,1.5,5.4,2.2,196.58
+Pumpkin Seeds,Nuts & Seeds,29.2,15.1,23.5,58.0,8.6,5.9,198.43
+Banana Chips,Snacks,51.8,4.6,47.3,33.4,2.4,16.3,266.66
+Fruit Smoothie,Beverages,232.2,1.9,7.8,0.6,0.0,5.7,102.96
+Gulab Jamun,Desserts,96.3,5.4,40.8,11.2,0.8,27.3,273.16
+Cheese Pizza Slice,Fast Food,104.5,13.5,35.0,16.1,2.6,4.2,355.43
+Carrot,Vegetables,204.4,2.3,8.0,0.2,3.0,2.1,101.56
+Mango,Fruits,111.8,0.9,13.1,0.9,2.1,8.1,74.54
+Greek Yogurt,Dairy,207.5,11.1,11.4,7.0,0.5,11.6,310.7
+Cornflakes,Grains & Cereals,89.0,8.2,57.4,6.4,6.1,2.4,297.7
+Pork Loin,Meat & Poultry,194.1,20.1,2.6,19.7,0.1,0.4,545.66
+Pomfret,Seafood,133.0,22.1,0.2,6.5,0.0,0.2,198.98
+Chana Dal,Legumes,134.7,5.5,23.8,0.9,8.6,2.0,196.16
+Hazelnuts,Nuts & Seeds,29.7,15.2,27.1,54.1,9.3,2.4,218.28
+Potato Chips,Snacks,43.2,7.8,56.4,29.5,1.8,11.6,223.0
+Orange Juice,Beverages,216.3,0.1,11.6,1.8,0.1,7.2,134.24
+Chocolate Cake,Desserts,114.1,3.1,51.5,24.5,2.3,22.7,488.59
+Chicken Burger,Fast Food,163.4,8.3,33.3,15.6,2.7,8.7,523.7
+Bell Pepper,Vegetables,106.7,1.2,8.7,0.3,4.7,2.2,52.93
+Papaya,Fruits,151.9,2.0,23.2,1.1,3.7,18.6,186.29
+Butter,Dairy,139.4,9.7,10.9,9.7,0.0,11.2,227.72
+Ragi,Grains & Cereals,135.9,7.9,58.1,6.0,3.4,2.2,426.52
+Keema,Meat & Poultry,102.1,21.7,2.3,24.4,0.1,0.1,336.06
+Tilapia,Seafood,158.1,16.5,1.4,2.3,0.1,0.3,141.2
+Boiled Chickpeas,Legumes,192.8,9.0,25.7,2.3,4.7,0.8,321.87
+Cashews,Nuts & Seeds,38.5,18.0,17.3,57.9,10.6,3.4,261.41
+Roasted Peanuts,Snacks,58.8,6.2,57.7,22.1,1.4,13.4,284.25
+Sweet Tea,Beverages,216.4,3.3,11.3,0.9,0.8,0.2,144.1
+Donut,Desserts,92.2,5.2,40.8,20.6,1.8,41.7,338.68
+Fried Chicken,Fast Food,149.6,10.6,31.4,19.8,2.7,6.2,505.44
+Tomato,Vegetables,121.9,2.4,12.6,0.1,1.3,5.2,81.31
+Watermelon,Fruits,115.4,0.8,10.4,1.4,1.5,10.7,66.63
+Buttermilk,Dairy,202.1,2.2,3.7,4.8,0.0,9.5,135.16
+Upma,Grains & Cereals,69.0,8.5,67.6,6.3,9.7,0.5,284.65
+Chicken Breast,Meat & Poultry,178.6,21.0,1.7,12.2,0.0,0.4,345.67
+Rohu Fish,Seafood,190.3,24.2,0.1,13.9,0.0,0.4,408.87
+Moong Dal,Legumes,153.6,9.0,26.7,2.1,7.9,0.8,273.98
+Peanuts,Nuts & Seeds,22.8,23.6,16.7,52.1,8.1,3.3,139.54
+Cookies,Snacks,38.3,5.7,49.7,27.4,2.1,11.5,174.84
+Coconut Water,Beverages,280.3,1.0,13.3,1.8,0.5,4.3,220.49
+Jalebi,Desserts,101.4,4.6,55.1,20.7,1.9,27.2,419.38
+Veg Wrap,Fast Food,245.1,12.9,37.9,12.0,2.2,3.7,790.1
+Cabbage,Vegetables,217.4,2.8,3.8,1.0,4.2,5.2,92.67
+Pomegranate,Fruits,117.1,1.9,12.3,0.9,1.3,15.0,81.65
+Whole Milk,Dairy,173.8,7.7,8.6,13.3,0.4,11.8,302.92
+White Rice,Grains & Cereals,107.0,13.4,58.0,1.7,2.8,7.9,322.45
+Mutton Curry Cut,Meat & Poultry,154.6,26.1,1.0,22.8,0.2,0.3,482.47
+Tuna,Seafood,173.0,16.7,0.3,14.1,0.0,0.2,329.54
+Kidney Beans,Legumes,171.8,9.7,26.7,1.7,5.9,3.0,303.96
+Sunflower Seeds,Nuts & Seeds,33.7,16.2,24.9,57.4,4.0,4.9,232.94
+Popcorn,Snacks,35.6,5.8,61.5,25.9,2.4,13.8,183.24
+Lemonade,Beverages,325.5,2.7,1.5,2.0,0.9,3.7,122.44
+Pastry,Desserts,52.0,6.0,51.6,23.0,0.3,42.4,223.13
+Pav Bhaji,Fast Food,107.2,9.0,36.7,13.0,2.8,7.6,325.92
+Spinach,Vegetables,108.6,0.6,9.9,0.8,2.0,6.9,59.01
+Banana,Fruits,120.2,1.9,21.1,1.0,3.5,7.5,135.61
+Paneer,Dairy,140.6,8.3,13.2,4.3,0.4,5.1,180.74
+Whole Wheat Bread,Grains & Cereals,181.5,13.8,70.3,1.3,7.5,0.5,623.49
+Chicken Thigh,Meat & Poultry,217.6,20.1,0.3,7.0,0.2,0.5,314.05
+Mackerel,Seafood,170.0,21.3,0.3,14.2,0.0,0.3,360.75
+Green Peas,Legumes,111.9,9.7,17.2,1.8,6.0,1.7,152.19
+Pumpkin Seeds,Nuts & Seeds,28.2,17.8,13.4,53.0,7.9,5.2,169.96
+Banana Chips,Snacks,41.6,4.9,56.8,26.3,1.1,13.4,208.78
+Fruit Smoothie,Beverages,247.4,2.0,7.9,1.4,0.6,8.5,131.35
+Gulab Jamun,Desserts,101.6,4.2,45.8,22.5,1.1,32.8,412.26
+Cheese Pizza Slice,Fast Food,267.5,14.4,32.6,17.8,2.6,5.2,964.26
+Carrot,Vegetables,147.1,2.6,2.7,0.3,2.3,2.2,39.63
+Mango,Fruits,160.1,0.2,22.1,1.3,2.1,9.0,160.44
+Greek Yogurt,Dairy,203.1,5.6,14.5,24.9,0.4,6.4,591.31
+Cornflakes,Grains & Cereals,66.2,9.1,71.0,1.1,3.9,6.3,219.03
+Pork Loin,Meat & Poultry,121.2,28.0,3.0,15.2,0.2,1.0,330.3
+Pomfret,Seafood,115.1,19.3,0.2,11.5,0.0,0.2,202.47
+Chana Dal,Legumes,158.6,9.5,15.7,1.1,5.5,1.7,178.88
+Hazelnuts,Nuts & Seeds,33.4,15.8,12.1,61.7,8.1,5.2,227.22
+Potato Chips,Snacks,41.9,4.2,52.3,30.8,2.0,21.9,214.44
+Orange Juice,Beverages,251.1,3.0,7.1,1.8,0.6,11.1,141.12
+Chocolate Cake,Desserts,63.4,3.6,57.9,22.6,0.5,28.5,284.45
+Chicken Burger,Fast Food,155.6,14.5,31.7,14.6,2.2,3.1,485.66
+Bell Pepper,Vegetables,235.5,2.1,14.8,0.6,2.9,6.3,172.15
+Papaya,Fruits,144.0,1.9,21.3,1.3,1.3,16.5,150.64
+Butter,Dairy,212.5,8.5,14.6,24.6,0.1,11.1,660.02
+Ragi,Grains & Cereals,114.4,7.0,56.0,5.7,6.4,11.8,342.08
+Keema,Meat & Poultry,238.7,22.9,2.4,4.9,0.1,0.8,354.77
+Tilapia,Seafood,171.3,15.4,0.7,1.2,0.0,0.3,131.06
+Boiled Chickpeas,Legumes,162.2,9.3,26.1,2.5,4.2,1.1,276.37
+Cashews,Nuts & Seeds,37.9,15.0,17.8,58.2,3.2,4.0,261.2
+Roasted Peanuts,Snacks,45.7,5.0,62.1,27.0,3.6,11.0,234.23
+Sweet Tea,Beverages,307.6,1.0,12.4,0.4,0.1,4.4,179.17
+Donut,Desserts,119.8,6.0,42.4,18.2,0.4,34.4,412.49
+Fried Chicken,Fast Food,173.1,12.2,30.9,23.7,2.0,3.9,652.24
+Tomato,Vegetables,163.1,1.0,2.2,0.5,3.5,3.4,37.29
+Watermelon,Fruits,132.5,1.6,17.2,0.4,3.7,10.1,115.92
+Buttermilk,Dairy,136.2,7.3,11.9,15.0,0.3,6.3,296.31
+Upma,Grains & Cereals,165.4,7.2,76.9,2.7,7.1,9.5,635.17
+Chicken Breast,Meat & Poultry,218.1,23.7,3.0,17.8,0.2,0.9,575.55
+Rohu Fish,Seafood,143.3,21.2,0.2,10.0,0.1,0.3,258.59
+Moong Dal,Legumes,145.5,9.8,16.5,0.6,5.2,0.7,175.38
+Peanuts,Nuts & Seeds,34.0,18.1,8.1,46.3,6.1,2.3,176.42
+Cookies,Snacks,55.2,5.2,52.9,28.3,1.0,7.2,270.01
+Coconut Water,Beverages,326.2,1.8,6.9,0.7,0.4,10.1,134.6
+Jalebi,Desserts,73.2,3.3,41.1,19.6,2.0,25.7,267.82
+Veg Wrap,Fast Food,127.6,8.3,31.9,20.7,1.3,3.3,450.04
+Cabbage,Vegetables,136.2,0.5,4.4,0.0,1.4,5.3,32.53
+Pomegranate,Fruits,116.3,1.3,22.4,0.0,3.6,15.0,117.27
+Whole Milk,Dairy,247.7,10.6,6.1,23.0,0.2,9.6,701.75
+White Rice,Grains & Cereals,106.2,12.5,63.0,5.8,7.4,2.6,400.56
+Mutton Curry Cut,Meat & Poultry,208.8,18.9,0.1,10.6,0.0,0.2,376.6
+Tuna,Seafood,114.4,23.1,0.6,13.4,0.1,0.1,238.72
+Kidney Beans,Legumes,199.3,5.9,22.6,3.0,4.0,0.5,304.43
+Sunflower Seeds,Nuts & Seeds,25.5,16.3,25.8,62.5,7.3,5.1,185.56
+Popcorn,Snacks,45.8,6.4,50.9,33.3,3.5,5.4,253.36
+Lemonade,Beverages,301.6,3.1,3.6,1.2,0.6,5.2,120.74
+Pastry,Desserts,50.9,4.3,54.0,29.7,1.3,32.9,251.18
+Pav Bhaji,Fast Food,236.5,11.6,31.1,11.4,2.8,5.8,666.01
+Spinach,Vegetables,131.8,2.9,4.3,0.2,4.4,7.4,48.84
+Banana,Fruits,173.1,1.5,22.9,0.6,2.6,16.6,189.23
+Paneer,Dairy,115.0,7.7,4.3,22.6,0.4,11.8,302.77
+Whole Wheat Bread,Grains & Cereals,182.0,11.9,55.6,6.9,5.4,8.6,626.34
+Chicken Thigh,Meat & Poultry,240.3,21.8,1.8,15.8,0.1,0.6,560.74
+Mackerel,Seafood,168.5,17.2,0.8,6.2,0.0,0.1,202.51
+Green Peas,Legumes,127.8,9.8,18.7,0.7,7.8,2.7,178.12
+Pumpkin Seeds,Nuts & Seeds,29.6,16.9,18.0,53.8,5.1,2.2,191.92
+Banana Chips,Snacks,51.8,6.6,54.9,22.2,1.8,10.9,232.51
+Fruit Smoothie,Beverages,220.7,3.2,13.8,2.0,1.0,0.9,199.95
+Gulab Jamun,Desserts,61.6,4.2,37.4,26.9,1.9,33.6,254.27
+Cheese Pizza Slice,Fast Food,174.3,9.1,37.8,18.8,2.5,5.1,637.13
+Carrot,Vegetables,234.4,2.4,12.0,0.2,4.8,1.8,155.9
+Mango,Fruits,124.5,0.7,22.4,0.3,2.2,12.8,127.15
+Greek Yogurt,Dairy,136.7,10.5,13.5,8.8,0.3,5.7,238.17
+Cornflakes,Grains & Cereals,124.8,13.5,77.2,5.7,6.7,5.9,539.56
+Pork Loin,Meat & Poultry,243.0,23.2,0.4,5.8,0.2,0.5,359.77
+Pomfret,Seafood,191.7,21.1,0.4,4.2,0.0,0.1,243.23
+Chana Dal,Legumes,198.9,8.0,22.0,1.5,6.7,1.0,295.47
+Hazelnuts,Nuts & Seeds,21.0,22.4,16.8,47.2,10.4,3.7,131.78
+Potato Chips,Snacks,57.3,7.2,57.5,35.0,3.4,9.2,322.77
+Orange Juice,Beverages,268.7,2.2,0.0,2.0,0.3,0.8,74.03
+Chocolate Cake,Desserts,100.8,2.6,50.8,17.9,2.8,28.0,395.78
+Chicken Burger,Fast Food,135.4,12.6,34.0,17.1,2.9,5.4,479.11
+Bell Pepper,Vegetables,248.8,2.6,2.5,0.4,4.6,6.2,83.17
+Papaya,Fruits,140.3,1.4,13.1,1.4,2.1,16.6,106.51
+Butter,Dairy,151.4,9.2,9.1,22.7,0.2,10.1,415.76
+Ragi,Grains & Cereals,146.1,9.5,58.1,1.6,8.0,7.9,444.11
+Keema,Meat & Poultry,200.2,21.9,0.6,20.1,0.2,0.2,544.26
+Tilapia,Seafood,120.3,18.0,0.3,4.6,0.1,0.5,140.66
+Boiled Chickpeas,Legumes,132.0,8.5,29.3,2.0,5.3,2.1,246.13
+Cashews,Nuts & Seeds,32.2,19.0,21.4,44.5,6.2,6.4,181.87
+Roasted Peanuts,Snacks,47.1,7.7,62.1,26.4,2.6,14.8,240.64
+Sweet Tea,Beverages,311.7,0.9,12.8,1.8,0.8,12.7,225.7
+Donut,Desserts,70.3,5.1,47.0,19.1,0.7,36.1,269.22
+Fried Chicken,Fast Food,133.5,12.1,31.1,13.3,2.6,9.0,396.98
+Tomato,Vegetables,117.4,1.3,12.4,0.8,1.6,6.4,76.33
+Watermelon,Fruits,193.3,2.0,11.3,0.2,2.3,15.1,120.37
+Buttermilk,Dairy,199.5,2.7,4.7,19.9,0.1,12.7,398.62
+Upma,Grains & Cereals,149.8,12.7,59.4,3.5,7.0,6.0,503.12
+Chicken Breast,Meat & Poultry,246.5,29.9,3.0,14.4,0.0,0.7,667.1
+Rohu Fish,Seafood,178.7,20.1,0.8,1.2,0.1,0.2,162.96
+Moong Dal,Legumes,149.1,9.1,21.2,1.3,7.7,2.5,220.07
+Peanuts,Nuts & Seeds,21.4,16.4,25.5,46.0,4.2,4.7,127.72
+Cookies,Snacks,53.8,4.0,53.7,35.5,1.1,18.0,296.45
+Coconut Water,Beverages,213.9,0.5,12.1,1.6,0.5,10.6,140.81
+Jalebi,Desserts,82.5,5.0,41.4,25.0,1.5,38.8,317.88
+Veg Wrap,Fast Food,135.3,9.5,28.1,21.3,1.2,3.6,480.3
+Cabbage,Vegetables,167.3,2.6,7.2,1.0,1.5,5.6,85.55
+Pomegranate,Fruits,165.6,1.8,24.6,1.3,1.6,9.9,197.83
+Whole Milk,Dairy,104.0,9.3,9.8,14.0,0.4,10.8,209.18
+White Rice,Grains & Cereals,172.3,10.8,67.2,2.6,5.8,9.1,583.15
+Mutton Curry Cut,Meat & Poultry,201.5,22.6,0.8,14.5,0.1,0.6,460.36
+Tuna,Seafood,189.0,15.0,0.4,13.5,0.1,0.1,362.03
+Kidney Beans,Legumes,119.5,7.4,29.0,0.6,5.1,2.0,187.87
+Sunflower Seeds,Nuts & Seeds,22.7,17.1,9.1,48.3,6.4,2.9,123.0
+Popcorn,Snacks,46.4,5.3,52.2,21.1,2.1,10.3,193.75
+Lemonade,Beverages,292.9,3.1,13.0,0.2,0.1,1.5,187.85
+Pastry,Desserts,53.1,5.4,53.9,26.4,1.6,44.9,257.66
+Pav Bhaji,Fast Food,295.7,10.3,39.2,18.7,2.6,4.2,1058.43
+Spinach,Vegetables,119.2,1.7,14.6,0.4,2.6,5.1,89.76
+Banana,Fruits,140.9,0.5,9.8,1.3,2.8,11.7,84.91
+Paneer,Dairy,167.7,8.3,14.1,23.4,0.2,6.6,526.52
+Whole Wheat Bread,Grains & Cereals,100.6,9.7,71.5,4.3,4.9,4.1,395.11
+Chicken Thigh,Meat & Poultry,213.3,20.0,2.2,11.6,0.0,0.6,409.82
+Mackerel,Seafood,194.6,24.1,1.9,9.2,0.1,0.0,358.55
+Green Peas,Legumes,156.3,9.6,23.7,0.5,4.2,2.2,226.98
+Pumpkin Seeds,Nuts & Seeds,35.7,22.4,24.9,54.4,6.7,2.0,237.64
+Banana Chips,Snacks,52.1,7.5,52.5,31.3,1.8,8.2,256.28
+Fruit Smoothie,Beverages,289.1,1.9,13.5,1.9,0.9,2.4,233.51
+Gulab Jamun,Desserts,118.8,3.5,37.5,26.2,1.4,34.1,464.22
+Cheese Pizza Slice,Fast Food,267.5,11.0,30.5,16.3,1.2,8.6,852.84
+Carrot,Vegetables,203.5,1.3,13.4,0.0,3.1,4.2,129.04
+Mango,Fruits,152.2,1.4,14.4,0.9,1.1,13.0,107.02
+Greek Yogurt,Dairy,160.7,3.4,5.3,8.9,0.0,13.4,187.33
+Cornflakes,Grains & Cereals,108.6,13.8,57.0,4.9,9.8,7.6,381.98
+Pork Loin,Meat & Poultry,205.9,18.4,1.6,24.9,0.2,0.0,643.56
+Pomfret,Seafood,106.0,24.9,0.1,14.1,0.1,0.1,254.27
+Chana Dal,Legumes,144.5,5.8,23.0,2.8,6.8,1.5,228.63
+Hazelnuts,Nuts & Seeds,21.9,24.7,13.5,48.0,5.3,6.8,135.13
+Potato Chips,Snacks,29.4,6.8,61.6,39.5,3.5,23.9,189.44
+Orange Juice,Beverages,272.4,1.9,7.6,1.8,1.0,9.2,151.65
+Chocolate Cake,Desserts,104.6,3.5,44.0,17.8,0.3,21.9,357.38
+Chicken Burger,Fast Food,295.1,14.5,34.2,10.5,1.3,4.4,877.93
+Bell Pepper,Vegetables,123.0,1.8,14.2,1.0,1.9,1.3,92.77
+Papaya,Fruits,120.2,0.6,17.7,1.4,2.6,15.1,107.29
+Butter,Dairy,133.9,8.2,13.4,23.7,0.2,4.0,414.02
+Ragi,Grains & Cereals,91.3,13.6,64.5,5.6,6.9,2.2,345.63
+Keema,Meat & Poultry,240.5,26.1,1.3,8.0,0.1,0.2,425.69
+Tilapia,Seafood,199.5,16.2,1.0,8.0,0.1,0.2,270.95
+Boiled Chickpeas,Legumes,163.8,7.4,21.3,0.7,7.0,1.1,222.67
+Cashews,Nuts & Seeds,36.4,24.8,16.8,62.8,6.8,2.3,270.92
+Roasted Peanuts,Snacks,37.2,7.1,53.6,32.8,3.6,17.6,204.64
+Sweet Tea,Beverages,275.9,2.4,13.4,0.7,0.4,10.6,187.58
+Donut,Desserts,93.9,3.8,40.4,24.9,0.4,25.0,351.65
+Fried Chicken,Fast Food,139.5,14.3,29.1,11.7,2.9,4.1,401.88
+Tomato,Vegetables,153.7,1.8,13.5,0.8,3.8,2.2,111.54
+Watermelon,Fruits,170.5,0.5,12.6,0.5,1.4,14.2,100.17
+Buttermilk,Dairy,223.1,6.8,12.4,18.8,0.4,7.9,540.77
+Upma,Grains & Cereals,160.3,8.9,59.4,3.8,5.5,2.9,541.07
+Chicken Breast,Meat & Poultry,135.4,21.3,0.4,12.7,0.1,0.4,273.42
+Rohu Fish,Seafood,161.4,25.2,1.0,9.8,0.1,0.5,310.0
+Moong Dal,Legumes,147.7,9.5,26.9,1.7,4.4,0.5,254.78
+Peanuts,Nuts & Seeds,24.5,19.1,18.9,55.6,9.7,2.5,168.31
+Cookies,Snacks,39.1,7.4,64.9,37.5,3.7,11.3,246.7
+Coconut Water,Beverages,225.5,2.1,13.1,0.7,0.6,3.9,146.93
+Jalebi,Desserts,63.4,2.2,58.7,18.1,2.5,37.0,267.0
+Veg Wrap,Fast Food,262.9,13.7,29.0,23.7,1.3,7.7,987.36
+Cabbage,Vegetables,138.0,1.2,14.5,0.3,2.7,4.0,96.94
+Pomegranate,Fruits,157.1,1.6,14.4,1.3,1.6,7.1,115.34
+Whole Milk,Dairy,159.3,2.4,5.5,13.2,0.4,4.0,229.22
+White Rice,Grains & Cereals,177.9,9.0,59.7,2.2,5.7,5.8,540.99
+Mutton Curry Cut,Meat & Poultry,136.9,26.3,2.9,12.1,0.1,0.9,298.97
+Tuna,Seafood,146.4,23.3,0.2,7.3,0.0,0.1,237.23
+Kidney Beans,Legumes,125.5,9.0,28.6,2.5,5.3,1.2,230.91
+Sunflower Seeds,Nuts & Seeds,20.7,24.4,15.4,48.7,9.8,4.0,130.06
+Popcorn,Snacks,54.7,6.6,60.7,24.2,3.8,22.0,283.27
+Lemonade,Beverages,219.2,0.2,12.1,0.6,0.6,9.9,123.88
+Pastry,Desserts,102.1,5.8,53.2,18.8,2.6,33.2,425.62
+Pav Bhaji,Fast Food,201.1,13.2,29.3,11.8,1.5,6.5,580.87
+Spinach,Vegetables,201.7,1.5,12.2,0.9,2.0,6.2,134.3
+Banana,Fruits,198.4,0.5,21.5,1.4,3.2,18.9,206.32
+Paneer,Dairy,231.3,8.4,8.7,24.7,0.0,7.5,677.52
+Whole Wheat Bread,Grains & Cereals,163.2,12.3,64.6,6.9,10.0,3.6,604.68
+Chicken Thigh,Meat & Poultry,206.8,25.3,2.0,21.3,0.0,0.2,610.92
+Mackerel,Seafood,139.6,20.5,0.1,5.6,0.1,0.0,189.69
+Green Peas,Legumes,188.6,5.3,26.2,1.1,8.3,2.4,277.63
+Pumpkin Seeds,Nuts & Seeds,39.2,20.3,23.4,49.2,4.8,2.1,241.9
+Banana Chips,Snacks,47.4,6.5,59.9,30.6,2.4,14.0,266.96
+Fruit Smoothie,Beverages,345.9,3.1,11.4,0.7,0.6,1.8,226.84
+Gulab Jamun,Desserts,58.4,5.7,43.3,13.4,0.6,22.3,181.86
+Cheese Pizza Slice,Fast Food,254.9,14.9,26.1,12.0,2.7,7.1,707.74
+Carrot,Vegetables,151.9,2.7,10.3,0.5,3.9,4.1,93.85
+Mango,Fruits,184.2,0.5,21.5,0.4,1.5,10.2,167.45
+Greek Yogurt,Dairy,132.5,8.9,13.3,2.4,0.4,6.4,143.6
+Cornflakes,Grains & Cereals,139.5,13.3,62.4,4.4,4.6,6.7,523.77
+Pork Loin,Meat & Poultry,111.1,25.5,0.4,18.3,0.1,0.7,288.53
+Pomfret,Seafood,123.7,19.5,0.2,3.7,0.0,0.4,137.62
+Chana Dal,Legumes,192.8,7.7,26.4,1.7,6.5,2.0,304.64
+Hazelnuts,Nuts & Seeds,29.6,20.3,19.6,59.5,3.6,4.6,201.95
+Potato Chips,Snacks,32.6,6.0,54.4,39.2,2.4,8.6,185.59
+Orange Juice,Beverages,285.5,0.0,6.0,1.5,0.7,0.4,112.3
+Chocolate Cake,Desserts,78.9,5.8,39.2,22.5,1.0,36.0,304.09
+Chicken Burger,Fast Food,299.8,9.6,38.6,17.5,2.5,8.9,1002.17
+Bell Pepper,Vegetables,248.5,1.2,5.3,0.3,3.3,8.0,88.04
+Papaya,Fruits,183.3,1.4,22.6,1.4,1.6,13.9,208.86
+Butter,Dairy,140.4,6.4,14.8,24.6,0.5,11.8,417.18
+Ragi,Grains & Cereals,159.9,10.4,69.0,4.0,7.7,4.9,574.51
+Keema,Meat & Poultry,134.2,22.0,0.4,7.2,0.2,0.4,206.98
+Tilapia,Seafood,127.5,21.1,0.0,5.1,0.0,0.3,169.57
+Boiled Chickpeas,Legumes,160.7,5.3,23.7,0.6,8.2,0.9,225.21
+Cashews,Nuts & Seeds,23.6,19.4,8.5,60.9,10.1,2.1,163.49
+Roasted Peanuts,Snacks,46.0,6.2,48.0,24.1,3.0,19.5,195.52
+Sweet Tea,Beverages,206.9,1.7,4.2,1.0,0.4,2.9,71.28
+Donut,Desserts,104.4,4.8,35.5,18.8,1.9,35.3,332.4
+Fried Chicken,Fast Food,108.5,13.0,26.5,17.1,2.2,4.7,337.59
+Tomato,Vegetables,130.2,1.6,7.4,0.2,4.3,7.5,61.32
+Watermelon,Fruits,197.0,0.2,23.7,1.4,1.0,16.9,221.05
+Buttermilk,Dairy,192.2,11.7,9.6,2.4,0.4,9.8,203.42
+Upma,Grains & Cereals,175.8,10.6,58.8,5.4,2.7,8.8,603.47
+Chicken Breast,Meat & Poultry,126.2,24.1,0.9,24.3,0.1,0.4,382.44
+Rohu Fish,Seafood,137.8,20.1,1.9,11.1,0.0,0.4,250.47
+Moong Dal,Legumes,198.7,6.2,24.3,2.8,5.3,2.2,310.19
+Peanuts,Nuts & Seeds,35.1,15.9,21.2,51.1,3.6,4.4,217.48
+Cookies,Snacks,58.4,5.3,61.9,30.4,3.5,13.9,318.01
+Coconut Water,Beverages,303.1,0.4,12.4,1.0,0.1,2.0,185.38
+Jalebi,Desserts,69.6,3.1,38.5,18.8,1.2,33.0,236.21
+Veg Wrap,Fast Food,149.7,12.3,30.6,19.8,1.2,3.1,534.51
+Cabbage,Vegetables,103.3,1.5,12.5,0.4,3.1,5.2,68.28
+Pomegranate,Fruits,102.2,0.8,15.2,0.2,3.3,19.3,75.71
+Whole Milk,Dairy,247.2,9.6,6.4,19.8,0.3,13.2,592.46
+White Rice,Grains & Cereals,42.6,9.6,68.7,1.9,5.0,11.9,139.97
+Mutton Curry Cut,Meat & Poultry,119.6,28.1,1.0,13.6,0.2,0.5,286.97
+Tuna,Seafood,197.1,20.5,0.2,6.6,0.1,0.3,282.73
+Kidney Beans,Legumes,139.0,7.5,27.9,1.6,5.4,2.6,228.84
+Sunflower Seeds,Nuts & Seeds,24.0,24.8,10.9,50.3,3.2,4.0,142.54
+Popcorn,Snacks,50.1,4.7,58.5,25.3,2.1,12.0,237.08
+Lemonade,Beverages,251.4,1.3,11.9,1.1,0.2,11.7,163.38
+Pastry,Desserts,106.5,4.0,38.1,14.8,2.2,23.3,320.73
+Pav Bhaji,Fast Food,132.6,12.2,35.7,20.7,3.0,5.4,514.75
+Spinach,Vegetables,139.7,1.8,4.3,0.6,1.1,7.5,44.54
+Banana,Fruits,119.3,0.4,12.1,0.4,1.1,10.6,66.51
+Paneer,Dairy,130.3,5.9,7.1,8.5,0.0,3.3,168.35
+Whole Wheat Bread,Grains & Cereals,163.8,13.9,78.2,4.0,6.8,3.8,689.41
+Chicken Thigh,Meat & Poultry,146.3,28.1,2.7,12.6,0.2,0.8,337.69
+Mackerel,Seafood,103.4,16.0,2.0,11.7,0.0,0.3,181.64
+Green Peas,Legumes,141.4,9.0,24.0,2.6,4.5,1.2,236.65
+Pumpkin Seeds,Nuts & Seeds,25.4,19.5,12.6,52.2,6.4,6.4,156.3
+Banana Chips,Snacks,42.6,5.7,51.6,30.1,2.3,10.1,215.92
+Fruit Smoothie,Beverages,345.5,1.2,7.9,0.8,0.8,3.3,156.09
+Gulab Jamun,Desserts,107.3,5.9,56.0,12.8,1.6,24.2,407.5
+Cheese Pizza Slice,Fast Food,111.8,9.8,38.9,11.7,2.1,8.0,331.21
+Carrot,Vegetables,117.8,2.5,2.9,0.5,2.0,5.6,34.6
+Mango,Fruits,144.3,1.8,11.2,0.5,2.8,16.3,87.73
+Greek Yogurt,Dairy,238.4,3.0,15.0,11.7,0.4,8.3,439.98
+Cornflakes,Grains & Cereals,112.4,6.9,78.2,6.7,4.8,4.3,457.16
+Pork Loin,Meat & Poultry,105.8,20.3,2.7,8.6,0.1,0.1,177.18
+Pomfret,Seafood,187.6,18.7,1.3,1.9,0.1,0.4,181.56
+Chana Dal,Legumes,136.9,6.6,20.5,1.8,5.5,0.7,186.45
+Hazelnuts,Nuts & Seeds,26.9,18.9,11.1,49.5,8.0,3.9,153.94
+Potato Chips,Snacks,56.8,7.1,52.6,31.8,3.9,15.4,306.5
+Orange Juice,Beverages,213.9,0.2,6.0,1.4,1.0,6.0,82.08
+Chocolate Cake,Desserts,94.0,2.5,53.8,20.2,2.2,41.7,377.45
+Chicken Burger,Fast Food,143.3,13.3,37.6,23.0,1.1,6.9,630.65
+Bell Pepper,Vegetables,130.7,2.1,7.5,0.2,2.4,5.9,56.62
+Papaya,Fruits,170.8,1.8,21.0,0.3,1.9,19.6,159.77
+Butter,Dairy,100.7,5.1,6.6,1.5,0.4,3.5,63.18
+Ragi,Grains & Cereals,91.9,13.6,73.9,3.8,6.4,5.2,368.86
+Keema,Meat & Poultry,157.7,23.2,1.8,22.8,0.2,0.1,478.33
+Tilapia,Seafood,191.9,18.9,0.6,3.0,0.1,0.2,204.47
+Boiled Chickpeas,Legumes,120.9,5.3,21.0,0.7,5.3,3.0,156.44
+Cashews,Nuts & Seeds,22.8,20.7,17.5,56.2,6.0,6.1,154.79
+Roasted Peanuts,Snacks,31.0,6.8,62.4,27.4,2.7,6.4,169.21
+Sweet Tea,Beverages,325.3,2.5,4.0,1.4,0.1,11.2,126.49
+Donut,Desserts,79.8,2.1,36.4,27.1,0.7,33.7,313.89
+Fried Chicken,Fast Food,110.3,11.4,32.5,24.8,1.3,8.8,461.66
+Tomato,Vegetables,155.0,2.7,10.6,0.7,2.1,3.9,97.97
+Watermelon,Fruits,115.0,1.0,13.6,0.5,1.8,11.7,70.83
+Buttermilk,Dairy,122.6,8.0,4.6,17.5,0.4,5.6,255.77
+Upma,Grains & Cereals,51.5,6.4,74.1,6.9,2.4,9.0,209.14
+Chicken Breast,Meat & Poultry,138.6,27.1,1.1,3.2,0.1,1.0,192.79
+Rohu Fish,Seafood,189.3,16.4,1.1,9.1,0.1,0.4,278.15
+Moong Dal,Legumes,168.2,6.2,23.3,1.2,5.6,2.8,229.7
+Peanuts,Nuts & Seeds,30.6,19.2,18.3,54.2,3.9,3.2,192.02
+Cookies,Snacks,56.5,7.7,47.5,24.0,3.3,6.9,232.04
+Coconut Water,Beverages,307.8,0.2,9.7,1.3,0.8,10.8,154.4
+Jalebi,Desserts,80.6,3.3,52.4,29.1,1.8,36.6,393.33
+Veg Wrap,Fast Food,214.3,15.0,27.4,13.0,2.1,6.4,615.47
+Cabbage,Vegetables,196.2,1.5,9.6,0.6,3.6,6.0,109.29
+Pomegranate,Fruits,152.7,1.3,17.1,0.9,1.3,10.6,120.08
+Whole Milk,Dairy,224.1,8.8,4.1,15.0,0.1,11.1,435.74
+White Rice,Grains & Cereals,123.2,10.7,63.5,3.7,9.8,8.7,450.38
+Mutton Curry Cut,Meat & Poultry,175.8,18.6,0.4,7.2,0.1,0.9,262.32
+Tuna,Seafood,180.3,16.2,0.7,12.3,0.0,0.4,312.1
+Kidney Beans,Legumes,155.2,7.0,15.8,2.8,8.4,1.8,211.36
+Sunflower Seeds,Nuts & Seeds,36.6,23.2,17.5,44.7,8.5,6.8,209.49
+Popcorn,Snacks,41.2,4.2,63.8,38.7,2.6,17.8,253.16
+Lemonade,Beverages,234.0,0.4,1.4,0.5,0.8,1.9,29.67
+Pastry,Desserts,113.9,2.9,39.1,21.3,1.1,35.7,406.09
+Pav Bhaji,Fast Food,227.8,14.4,38.5,22.4,2.3,7.3,974.57
+Spinach,Vegetables,101.9,0.5,14.5,0.6,4.1,3.6,74.62
+Banana,Fruits,137.5,1.1,15.4,0.5,1.7,13.9,104.62
+Paneer,Dairy,196.6,3.7,6.8,7.7,0.3,8.5,205.89
+Whole Wheat Bread,Grains & Cereals,45.0,8.3,72.3,1.2,4.4,5.6,159.13
+Chicken Thigh,Meat & Poultry,106.2,26.1,2.2,14.4,0.1,0.4,271.3
+Mackerel,Seafood,182.7,22.2,2.0,0.7,0.1,0.4,192.14
+Green Peas,Legumes,102.6,8.1,25.5,2.6,4.6,2.8,162.33
+Pumpkin Seeds,Nuts & Seeds,23.3,15.8,11.1,44.1,6.6,3.7,124.78
+Banana Chips,Snacks,35.3,5.6,60.4,37.9,3.0,7.5,210.15
+Fruit Smoothie,Beverages,300.1,0.3,5.7,1.9,1.0,5.3,131.77
+Gulab Jamun,Desserts,96.6,5.0,35.8,12.9,1.8,25.8,259.53
+Cheese Pizza Slice,Fast Food,198.9,14.2,37.3,17.4,2.5,4.9,749.4
+Carrot,Vegetables,134.3,2.7,12.7,0.9,4.5,7.7,109.04
+Mango,Fruits,124.1,1.2,15.2,0.8,2.0,10.8,97.75
+Greek Yogurt,Dairy,169.7,7.0,13.7,15.9,0.3,7.7,398.78
+Cornflakes,Grains & Cereals,178.1,12.6,60.0,5.3,8.8,6.9,652.01
+Pork Loin,Meat & Poultry,249.0,28.6,2.2,20.6,0.1,0.8,778.85
+Pomfret,Seafood,156.5,24.0,1.5,7.1,0.1,0.2,267.24
+Chana Dal,Legumes,149.2,6.1,27.6,1.5,6.0,1.1,232.01
+Hazelnuts,Nuts & Seeds,28.9,24.0,8.5,56.1,6.7,5.1,185.31
+Potato Chips,Snacks,51.1,5.9,56.6,30.0,2.4,21.4,262.81
+Orange Juice,Beverages,310.9,2.8,12.0,0.3,0.6,3.7,204.27
+Chocolate Cake,Desserts,111.3,4.7,41.4,20.2,2.8,29.5,428.15
+Chicken Burger,Fast Food,274.1,14.1,27.5,22.3,1.1,5.8,994.46
+Bell Pepper,Vegetables,233.9,1.8,7.0,0.8,3.8,4.3,123.88
+Papaya,Fruits,113.9,0.5,18.9,1.5,1.7,10.2,111.65
+Butter,Dairy,176.8,4.3,9.0,24.8,0.0,9.1,495.05
+Ragi,Grains & Cereals,61.9,8.8,65.3,2.0,8.7,9.4,202.82
+Keema,Meat & Poultry,140.8,28.7,0.0,9.6,0.1,0.3,287.52
+Tilapia,Seafood,184.4,17.0,1.1,10.7,0.1,0.0,323.35
+Boiled Chickpeas,Legumes,149.7,8.8,20.4,2.5,5.0,1.0,221.61
+Cashews,Nuts & Seeds,36.0,17.3,22.2,61.6,3.6,6.4,269.48
+Roasted Peanuts,Snacks,28.5,6.8,58.5,30.5,3.0,23.4,149.29
+Sweet Tea,Beverages,348.7,0.3,13.2,0.9,0.7,10.9,222.66
+Donut,Desserts,95.4,5.2,57.2,11.0,2.3,28.9,337.31
+Fried Chicken,Fast Food,170.3,9.8,27.0,11.8,1.2,7.5,412.57
+Tomato,Vegetables,225.4,2.2,10.9,0.5,4.7,3.7,145.21
+Watermelon,Fruits,135.3,1.5,24.8,1.3,2.7,15.1,160.75
+Buttermilk,Dairy,117.9,9.7,15.0,12.6,0.0,9.6,236.4
+Upma,Grains & Cereals,179.7,8.6,73.3,2.1,3.5,0.5,615.31
+Chicken Breast,Meat & Poultry,165.2,18.5,0.1,15.3,0.1,0.6,356.89
+Rohu Fish,Seafood,173.9,18.2,1.4,1.3,0.1,0.5,160.41
+Moong Dal,Legumes,146.3,6.1,27.2,2.3,5.1,1.6,247.52
+Peanuts,Nuts & Seeds,20.9,21.8,20.5,57.6,5.2,3.9,144.05
+Cookies,Snacks,33.1,5.7,53.8,24.9,1.6,16.8,156.01
+Coconut Water,Beverages,248.1,2.7,5.3,0.8,0.4,10.6,97.78
+Jalebi,Desserts,79.0,5.8,51.5,18.6,2.2,31.4,314.62
+Veg Wrap,Fast Food,211.4,10.2,26.6,16.2,1.2,5.9,608.93
+Cabbage,Vegetables,117.8,0.6,10.1,0.5,1.1,2.7,56.56
+Pomegranate,Fruits,109.4,0.7,14.8,0.8,1.0,9.1,79.7
+Whole Milk,Dairy,116.2,5.3,9.6,5.9,0.0,13.4,131.3
+White Rice,Grains & Cereals,54.2,7.2,79.5,4.7,7.5,11.8,225.29
+Mutton Curry Cut,Meat & Poultry,122.4,20.4,1.9,12.2,0.1,0.9,253.05
+Tuna,Seafood,156.8,19.2,1.3,14.5,0.0,0.5,323.01
+Kidney Beans,Legumes,124.4,5.7,23.0,2.2,6.3,0.9,190.66
+Sunflower Seeds,Nuts & Seeds,33.5,15.3,21.9,65.0,3.1,2.8,241.14
+Popcorn,Snacks,45.8,6.4,58.7,31.8,2.1,18.9,255.86
+Lemonade,Beverages,212.9,2.0,12.3,1.3,0.5,4.2,140.98
+Pastry,Desserts,69.9,2.0,59.7,14.4,2.4,24.2,269.12
+Pav Bhaji,Fast Food,255.3,10.3,37.0,24.4,2.8,4.1,1061.01
+Spinach,Vegetables,137.2,2.8,8.7,0.3,1.6,1.1,70.44
+Banana,Fruits,154.3,1.6,24.5,0.2,2.8,10.3,176.05
+Paneer,Dairy,119.2,4.8,9.9,5.0,0.2,10.2,128.58
+Whole Wheat Bread,Grains & Cereals,180.0,10.0,75.5,4.9,8.4,8.6,677.2
+Chicken Thigh,Meat & Poultry,109.1,21.3,0.3,16.3,0.0,0.2,249.36
+Mackerel,Seafood,154.9,16.8,1.2,12.0,0.1,0.2,280.83
+Green Peas,Legumes,182.9,7.4,24.8,1.0,8.9,0.7,278.51
+Pumpkin Seeds,Nuts & Seeds,22.2,17.4,22.7,45.8,9.2,4.9,136.23
+Banana Chips,Snacks,34.8,7.0,50.9,37.8,3.3,19.0,205.27
+Fruit Smoothie,Beverages,311.3,3.3,1.3,0.7,0.2,5.1,72.12
+Gulab Jamun,Desserts,92.2,4.3,42.9,12.8,0.8,41.5,281.42
+Cheese Pizza Slice,Fast Food,241.2,13.5,26.0,13.8,1.5,9.9,729.83
+Carrot,Vegetables,214.7,0.5,4.4,0.6,2.5,7.5,65.88
+Mango,Fruits,124.9,1.5,24.6,0.7,2.9,18.9,145.21
+Greek Yogurt,Dairy,192.6,3.0,10.8,19.7,0.3,8.5,451.13
+Cornflakes,Grains & Cereals,181.2,7.7,61.7,4.6,6.0,2.9,643.19
+Pork Loin,Meat & Poultry,102.4,23.4,1.2,7.0,0.1,0.4,171.79
+Pomfret,Seafood,161.1,24.0,1.4,13.1,0.1,0.2,365.32
+Chana Dal,Legumes,176.1,6.3,18.3,0.8,7.3,2.5,218.15
+Hazelnuts,Nuts & Seeds,38.3,17.1,16.5,55.5,10.4,6.4,235.38
+Potato Chips,Snacks,34.0,7.9,54.3,20.9,1.3,12.8,147.14
+Orange Juice,Beverages,301.4,3.3,2.7,1.9,0.8,8.3,125.05
+Chocolate Cake,Desserts,99.8,4.6,39.7,28.8,0.9,26.4,435.71
+Chicken Burger,Fast Food,154.6,11.2,34.5,12.4,2.3,4.9,468.58
+Bell Pepper,Vegetables,181.3,1.3,6.3,0.5,1.8,2.4,69.01
+Papaya,Fruits,104.3,1.4,24.0,0.6,3.7,8.3,124.31
+Butter,Dairy,145.5,9.6,13.1,1.9,0.4,7.1,160.24
+Ragi,Grains & Cereals,153.9,14.0,56.6,6.0,7.8,8.8,561.29
+Keema,Meat & Poultry,127.9,20.2,0.0,16.2,0.1,0.1,280.08
+Tilapia,Seafood,196.4,15.8,0.1,13.8,0.0,0.5,370.32
+Boiled Chickpeas,Legumes,107.7,8.6,24.0,2.2,4.5,1.0,165.73
+Cashews,Nuts & Seeds,20.8,24.9,21.1,58.9,10.9,5.4,156.7
+Roasted Peanuts,Snacks,42.2,5.5,45.1,30.1,3.8,10.1,198.09
+Sweet Tea,Beverages,243.2,0.2,1.1,1.5,0.9,1.9,47.99
+Donut,Desserts,88.9,2.1,48.8,24.0,1.9,29.7,382.58
+Fried Chicken,Fast Food,229.9,9.1,39.0,21.4,2.8,9.4,916.2
+Tomato,Vegetables,152.8,1.5,2.0,0.1,1.4,1.7,28.05
+Watermelon,Fruits,101.3,1.6,18.0,0.2,3.2,11.6,88.9
+Buttermilk,Dairy,120.9,5.3,6.3,20.4,0.4,10.7,281.02
+Upma,Grains & Cereals,57.9,11.4,59.9,4.9,6.4,5.3,196.5
+Chicken Breast,Meat & Poultry,153.3,19.2,0.5,5.9,0.2,0.3,199.01
+Rohu Fish,Seafood,155.6,24.9,1.1,13.8,0.0,0.1,363.0
+Moong Dal,Legumes,127.1,9.0,28.2,1.7,8.9,1.9,235.21
+Peanuts,Nuts & Seeds,20.9,15.4,23.9,46.1,5.5,4.8,116.65
+Cookies,Snacks,31.6,6.8,46.4,29.5,2.0,9.6,152.99
+Coconut Water,Beverages,306.5,3.3,2.0,1.9,0.6,8.3,119.95
+Jalebi,Desserts,96.5,5.3,47.1,20.7,1.0,22.6,389.12
+Veg Wrap,Fast Food,184.2,9.9,26.4,12.9,2.3,7.4,474.35
+Cabbage,Vegetables,173.0,1.6,6.6,0.7,3.3,4.4,82.64
+Pomegranate,Fruits,131.9,1.6,16.4,0.7,1.1,19.3,106.22
+Whole Milk,Dairy,189.9,12.0,11.6,1.7,0.0,3.3,201.24
+White Rice,Grains & Cereals,50.2,13.5,78.4,4.3,7.5,3.5,204.26
+Mutton Curry Cut,Meat & Poultry,206.2,19.2,0.3,9.8,0.0,0.4,334.63
+Tuna,Seafood,122.3,21.6,1.7,6.4,0.1,0.3,190.14
+Kidney Beans,Legumes,152.5,6.4,15.4,1.1,5.8,1.4,166.26
+Sunflower Seeds,Nuts & Seeds,22.1,17.9,17.9,51.1,9.6,2.8,137.31
+Popcorn,Snacks,26.2,6.7,60.9,31.8,3.3,12.9,138.8
+Lemonade,Beverages,272.1,0.1,4.6,1.0,0.4,7.3,79.6
+Pastry,Desserts,72.0,4.7,43.0,16.9,1.8,34.9,246.4
+Pav Bhaji,Fast Food,107.3,12.9,34.7,12.0,1.9,9.2,330.26
+Spinach,Vegetables,168.2,0.9,8.6,0.4,1.0,7.4,75.95
+Banana,Fruits,168.5,0.7,22.7,1.4,2.7,9.6,185.51
+Paneer,Dairy,246.1,11.4,8.3,7.1,0.1,10.7,349.53
+Whole Wheat Bread,Grains & Cereals,143.7,11.9,78.2,1.4,3.0,8.3,557.85
+Chicken Thigh,Meat & Poultry,177.4,28.0,1.6,23.0,0.2,0.8,577.38
+Mackerel,Seafood,105.4,20.6,0.2,10.1,0.0,0.3,185.69
+Green Peas,Legumes,186.1,6.2,24.3,2.5,4.3,2.6,271.48
+Pumpkin Seeds,Nuts & Seeds,37.6,21.6,15.5,47.2,7.2,2.4,223.61
+Banana Chips,Snacks,27.7,7.3,56.3,31.2,4.0,10.0,147.66
+Fruit Smoothie,Beverages,228.2,1.2,4.5,0.0,0.6,3.4,55.5
+Gulab Jamun,Desserts,73.0,3.5,57.0,16.7,2.0,38.9,275.91
+Cheese Pizza Slice,Fast Food,256.5,12.8,33.4,10.0,1.1,9.9,690.32
+Carrot,Vegetables,101.0,2.8,2.3,0.8,2.8,6.5,33.58
+Mango,Fruits,196.7,1.6,21.5,0.9,1.9,11.0,200.25
+Greek Yogurt,Dairy,224.0,6.5,9.6,10.5,0.3,7.8,352.53
+Cornflakes,Grains & Cereals,130.1,13.5,69.1,3.7,8.3,10.1,504.59
+Pork Loin,Meat & Poultry,188.2,27.0,2.0,19.4,0.0,0.5,546.97
+Pomfret,Seafood,175.8,24.4,1.2,2.4,0.1,0.4,218.88
+Chana Dal,Legumes,171.8,9.3,21.2,1.9,4.0,2.1,245.61
+Hazelnuts,Nuts & Seeds,34.1,20.0,24.0,58.3,5.2,6.8,231.12
+Potato Chips,Snacks,44.0,7.9,63.4,35.1,2.8,8.4,267.85
+Orange Juice,Beverages,264.8,1.8,12.2,0.2,0.4,6.6,160.49
+Chocolate Cake,Desserts,83.1,2.6,55.9,19.7,0.1,20.4,349.53
+Chicken Burger,Fast Food,160.7,12.9,36.9,13.4,2.2,4.1,518.2
+Bell Pepper,Vegetables,172.0,1.9,13.5,0.2,2.3,4.3,124.53
+Papaya,Fruits,151.9,0.4,22.5,1.3,2.7,11.5,170.31
+Butter,Dairy,206.7,10.0,9.0,23.2,0.3,8.7,589.62
+Ragi,Grains & Cereals,117.3,13.2,59.6,6.8,9.3,10.3,445.3
+Keema,Meat & Poultry,148.3,21.7,2.3,6.1,0.1,0.4,225.33
+Tilapia,Seafood,179.2,24.0,0.5,11.3,0.0,0.4,355.63
+Boiled Chickpeas,Legumes,177.9,8.6,28.7,2.5,6.0,1.7,331.4
+Cashews,Nuts & Seeds,40.0,23.0,13.9,60.9,3.7,2.2,284.05
+Roasted Peanuts,Snacks,57.7,5.8,50.7,22.6,2.5,9.4,251.13
+Sweet Tea,Beverages,249.1,0.5,3.5,0.4,0.2,8.5,47.14
+Donut,Desserts,72.4,5.6,50.1,23.9,1.1,24.0,305.76
+Fried Chicken,Fast Food,212.1,12.4,29.2,16.8,2.7,7.7,680.49
+Tomato,Vegetables,189.8,2.2,10.4,0.2,1.4,7.8,105.62
+Watermelon,Fruits,153.4,1.3,9.1,1.2,1.6,17.5,84.84
+Buttermilk,Dairy,152.5,2.3,12.8,4.8,0.0,11.3,157.54
+Upma,Grains & Cereals,72.5,8.0,76.5,2.8,3.9,3.7,274.6
+Chicken Breast,Meat & Poultry,131.9,19.0,0.5,12.2,0.2,0.1,250.25
+Rohu Fish,Seafood,112.9,24.8,1.4,4.0,0.0,0.1,158.34
+Moong Dal,Legumes,179.1,7.9,20.4,2.0,5.5,1.4,254.47
+Peanuts,Nuts & Seeds,23.4,18.2,19.0,49.8,3.4,5.7,139.11
+Cookies,Snacks,46.5,5.9,48.7,21.9,2.0,24.0,195.68
+Coconut Water,Beverages,263.5,0.1,8.4,0.2,0.5,9.8,95.03
+Jalebi,Desserts,90.2,2.2,35.6,18.6,2.7,26.1,302.59
+Veg Wrap,Fast Food,246.8,8.4,27.3,15.0,2.3,6.1,718.8
+Cabbage,Vegetables,209.5,2.4,14.9,0.8,4.4,6.8,181.54
+Pomegranate,Fruits,143.1,1.9,16.1,1.0,2.5,18.1,127.36
+Whole Milk,Dairy,240.4,10.0,14.5,6.6,0.4,11.3,377.35
+White Rice,Grains & Cereals,156.0,10.6,69.5,2.0,10.8,3.1,565.54
+Mutton Curry Cut,Meat & Poultry,113.5,23.3,0.6,7.2,0.2,0.5,177.21
+Tuna,Seafood,151.2,17.8,1.8,5.0,0.0,0.0,177.03
+Kidney Beans,Legumes,192.8,8.8,22.0,1.4,5.3,1.2,285.77
+Sunflower Seeds,Nuts & Seeds,35.8,24.9,13.9,45.9,5.0,2.3,207.3
+Popcorn,Snacks,48.8,5.3,58.2,32.6,3.8,24.2,261.35
+Lemonade,Beverages,344.3,2.8,6.9,1.4,0.1,9.9,170.08
+Pastry,Desserts,117.2,5.3,58.3,14.5,1.6,43.2,454.74
+Pav Bhaji,Fast Food,130.7,10.4,35.5,13.3,1.6,3.2,408.28
+Spinach,Vegetables,102.3,2.1,10.4,0.8,2.7,2.9,62.56
+Banana,Fruits,163.0,0.8,11.0,0.0,1.5,15.7,83.82
+Paneer,Dairy,164.6,10.0,9.8,3.9,0.3,3.7,190.22
+Whole Wheat Bread,Grains & Cereals,140.4,9.4,62.0,5.1,9.6,9.2,486.13
+Chicken Thigh,Meat & Poultry,240.3,18.4,2.2,15.0,0.1,0.3,495.23
+Mackerel,Seafood,144.0,20.2,1.2,6.5,0.0,0.1,216.16
+Green Peas,Legumes,165.3,5.2,26.9,1.2,7.4,2.1,253.3
+Pumpkin Seeds,Nuts & Seeds,25.6,22.3,21.8,49.0,5.3,4.1,163.25
+Banana Chips,Snacks,49.7,5.6,57.1,24.4,3.4,13.8,234.02
+Fruit Smoothie,Beverages,248.6,1.6,0.4,1.4,0.3,12.3,52.96
+Gulab Jamun,Desserts,57.8,3.0,50.5,19.3,1.1,25.1,238.04
+Cheese Pizza Slice,Fast Food,183.7,15.0,31.2,10.0,2.9,3.1,539.82
+Carrot,Vegetables,248.0,2.8,11.3,0.5,4.9,1.3,168.57
+Mango,Fruits,152.3,1.9,12.3,0.2,3.0,13.7,101.48
+Greek Yogurt,Dairy,121.5,8.2,6.7,10.3,0.1,5.1,183.7
+Cornflakes,Grains & Cereals,181.0,11.6,68.3,3.2,8.0,9.8,663.98
+Pork Loin,Meat & Poultry,159.4,27.8,1.5,13.4,0.2,0.4,376.85
+Pomfret,Seafood,186.7,20.7,1.1,10.1,0.0,0.1,353.58
+Chana Dal,Legumes,113.9,9.6,18.1,1.9,6.7,2.6,159.46
+Hazelnuts,Nuts & Seeds,25.3,20.3,19.3,54.7,3.3,4.5,154.52
+Potato Chips,Snacks,31.7,6.6,55.0,21.9,1.2,8.7,135.38
+Orange Juice,Beverages,244.3,0.6,12.3,0.4,0.1,11.4,137.99
+Chocolate Cake,Desserts,119.2,5.8,58.6,24.3,0.2,34.8,575.73
+Chicken Burger,Fast Food,154.8,8.7,30.9,14.7,1.3,7.9,438.24
+Bell Pepper,Vegetables,243.1,0.7,8.5,0.2,2.7,2.0,107.12
+Papaya,Fruits,113.9,1.1,11.3,0.1,1.6,7.7,59.93
+Butter,Dairy,155.8,8.5,4.0,11.3,0.3,5.6,230.22
+Ragi,Grains & Cereals,107.7,7.8,66.7,6.9,11.0,11.8,419.47
+Keema,Meat & Poultry,150.9,21.9,0.7,3.3,0.0,0.5,175.77
+Tilapia,Seafood,118.4,22.9,0.7,12.9,0.0,0.3,232.07
+Boiled Chickpeas,Legumes,193.0,5.8,17.4,2.0,5.3,0.9,232.54
+Cashews,Nuts & Seeds,34.4,20.7,18.5,49.3,6.6,2.4,202.04
+Roasted Peanuts,Snacks,47.8,4.8,51.3,38.0,3.4,23.9,275.95
+Sweet Tea,Beverages,281.9,1.7,12.7,1.0,0.4,8.3,185.01
+Donut,Desserts,102.7,3.3,56.2,17.6,2.5,31.1,411.32
+Fried Chicken,Fast Food,173.3,14.5,32.2,13.9,1.5,4.9,512.84
+Tomato,Vegetables,227.4,2.9,10.7,0.5,2.8,6.8,149.67
+Watermelon,Fruits,116.2,1.9,14.7,1.2,3.9,16.1,95.82
+Buttermilk,Dairy,127.2,3.2,12.5,7.4,0.3,13.0,166.66
+Upma,Grains & Cereals,143.9,11.2,65.5,2.0,2.3,4.9,454.8
+Chicken Breast,Meat & Poultry,146.4,19.9,1.4,11.1,0.1,0.7,273.49
+Rohu Fish,Seafood,110.1,25.2,1.1,9.4,0.0,0.1,207.61
+Moong Dal,Legumes,162.2,9.2,17.8,1.0,5.6,2.0,217.46
+Peanuts,Nuts & Seeds,38.1,24.1,13.2,57.8,7.5,3.5,263.12
+Cookies,Snacks,54.0,6.8,59.6,38.3,2.6,11.4,328.99
+Coconut Water,Beverages,247.7,1.8,10.8,0.5,0.6,11.2,134.71
+Jalebi,Desserts,60.7,5.8,55.0,27.7,1.2,44.9,305.67
+Veg Wrap,Fast Food,185.5,11.4,37.0,23.6,2.5,7.4,758.21
+Cabbage,Vegetables,219.4,1.8,2.3,0.5,4.4,6.0,64.45
+Pomegranate,Fruits,103.1,1.2,8.6,0.6,2.4,10.3,49.61
+Whole Milk,Dairy,171.1,6.4,8.0,6.6,0.3,7.8,204.62
+White Rice,Grains & Cereals,123.8,6.1,77.7,1.4,6.1,2.5,451.16
+Mutton Curry Cut,Meat & Poultry,160.6,28.3,1.2,17.1,0.0,0.0,434.17
+Tuna,Seafood,178.9,20.1,1.9,10.7,0.1,0.1,325.66
+Kidney Beans,Legumes,112.7,8.1,29.8,2.1,8.5,2.3,206.29
+Sunflower Seeds,Nuts & Seeds,21.4,19.8,26.3,60.9,3.8,2.7,152.82
+Popcorn,Snacks,43.2,4.3,59.5,31.0,3.5,10.6,237.78
+Lemonade,Beverages,215.9,3.1,2.5,0.2,0.2,10.5,54.77
+Pastry,Desserts,64.2,5.0,53.8,13.8,0.2,31.2,225.19
+Pav Bhaji,Fast Food,235.8,10.5,31.7,11.7,2.1,4.3,671.22
+Spinach,Vegetables,122.9,2.9,10.9,0.2,1.1,3.3,72.18
+Banana,Fruits,197.6,1.8,18.3,0.3,2.7,10.3,170.39
+Paneer,Dairy,230.2,9.3,12.3,2.1,0.1,7.2,242.21
+Whole Wheat Bread,Grains & Cereals,154.9,11.2,74.6,6.0,6.3,6.1,632.12
+Chicken Thigh,Meat & Poultry,122.5,28.3,0.1,7.3,0.2,0.3,215.97
+Mackerel,Seafood,195.6,20.8,1.7,1.5,0.0,0.2,206.4
+Green Peas,Legumes,151.2,9.8,28.3,1.2,8.1,2.2,275.45
+Pumpkin Seeds,Nuts & Seeds,36.1,23.2,23.7,59.9,11.0,4.4,261.73
+Banana Chips,Snacks,49.5,4.8,45.8,28.1,3.6,10.8,229.61
+Fruit Smoothie,Beverages,336.5,1.2,8.6,0.3,0.9,2.0,143.41
+Gulab Jamun,Desserts,91.3,6.0,50.1,11.7,0.2,21.9,293.61
+Cheese Pizza Slice,Fast Food,194.4,10.8,31.7,18.8,2.1,7.8,678.76
+Carrot,Vegetables,151.6,3.0,6.6,0.0,1.5,4.9,61.99
+Mango,Fruits,100.3,1.3,16.8,1.2,1.8,17.7,90.91
+Greek Yogurt,Dairy,182.6,11.3,12.5,21.4,0.2,12.1,578.24
+Cornflakes,Grains & Cereals,174.4,6.5,60.0,4.3,2.5,8.9,555.08
+Pork Loin,Meat & Poultry,110.5,19.2,2.8,4.5,0.1,0.8,143.19
+Pomfret,Seafood,156.9,15.3,1.0,12.3,0.0,0.1,268.47
+Chana Dal,Legumes,183.2,8.7,29.2,2.4,8.4,1.8,341.75
+Hazelnuts,Nuts & Seeds,39.0,15.7,20.8,45.1,10.1,5.5,229.88
+Potato Chips,Snacks,59.3,5.9,59.8,24.9,2.6,18.2,287.51
+Orange Juice,Beverages,217.8,1.7,8.2,0.3,0.4,3.7,93.43
+Chocolate Cake,Desserts,112.7,2.7,49.8,13.4,2.2,24.9,385.89
+Chicken Burger,Fast Food,283.1,11.7,29.8,13.4,1.9,8.9,809.7
+Bell Pepper,Vegetables,177.8,0.9,11.4,0.6,1.8,6.3,101.49
+Papaya,Fruits,177.8,0.8,15.5,0.3,3.3,9.0,129.37
+Butter,Dairy,237.9,9.5,3.2,7.2,0.2,9.6,276.01
+Ragi,Grains & Cereals,64.1,13.0,59.1,3.2,2.5,8.9,206.87
+Keema,Meat & Poultry,145.7,27.3,1.6,3.3,0.0,0.5,208.46
+Tilapia,Seafood,113.8,21.7,0.5,9.1,0.0,0.1,188.82
+Boiled Chickpeas,Legumes,157.6,5.1,19.6,2.8,8.2,1.4,213.02
+Cashews,Nuts & Seeds,26.3,23.3,12.0,50.2,5.4,2.2,158.91
+Roasted Peanuts,Snacks,44.4,7.6,47.2,29.2,2.1,14.8,218.22
+Sweet Tea,Beverages,250.1,2.9,13.6,1.3,0.7,6.9,199.14
+Donut,Desserts,72.9,4.3,36.1,26.5,1.3,30.4,310.85
+Fried Chicken,Fast Food,147.1,9.2,27.3,12.5,2.3,9.9,392.0
+Tomato,Vegetables,180.4,1.2,10.4,0.0,3.0,5.6,100.35
+Watermelon,Fruits,124.1,1.7,24.5,0.7,2.9,17.3,153.4
+Buttermilk,Dairy,178.7,4.8,12.3,3.2,0.1,8.9,178.29
+Upma,Grains & Cereals,119.0,14.0,57.7,2.6,5.2,5.7,368.4
+Chicken Breast,Meat & Poultry,119.6,27.2,0.1,13.0,0.1,0.5,267.17
+Rohu Fish,Seafood,151.6,19.5,0.4,11.5,0.0,0.3,276.73
+Moong Dal,Legumes,176.3,5.6,16.7,1.3,6.2,1.2,193.83
+Peanuts,Nuts & Seeds,31.2,15.8,15.7,60.2,9.8,5.7,205.2
+Cookies,Snacks,47.9,6.7,49.7,31.0,3.3,11.3,233.93
+Coconut Water,Beverages,254.9,1.8,1.3,1.3,0.9,1.8,67.47
+Jalebi,Desserts,118.6,2.1,59.7,19.9,1.1,26.9,507.52
+Veg Wrap,Fast Food,235.1,13.1,29.3,11.1,2.4,3.0,643.49
+Cabbage,Vegetables,248.5,2.4,12.0,0.7,1.1,5.9,161.45
+Pomegranate,Fruits,103.7,0.7,21.8,0.2,3.0,16.8,99.99
+Whole Milk,Dairy,227.3,7.8,6.6,22.0,0.1,7.0,585.94
+White Rice,Grains & Cereals,166.5,12.6,57.0,3.9,2.7,8.1,522.83
+Mutton Curry Cut,Meat & Poultry,196.6,29.8,2.0,19.9,0.1,0.9,603.81
+Tuna,Seafood,197.8,17.6,1.0,11.1,0.0,0.1,335.07
+Kidney Beans,Legumes,198.7,5.9,20.0,1.5,7.1,2.8,262.51
+Sunflower Seeds,Nuts & Seeds,39.5,22.0,13.8,62.0,4.7,2.5,293.88
+Popcorn,Snacks,29.8,5.2,58.5,29.3,2.0,10.7,161.55
+Lemonade,Beverages,334.9,1.6,7.2,0.4,0.9,8.3,129.17
+Pastry,Desserts,69.1,4.5,56.2,16.6,0.6,26.6,280.51
+Pav Bhaji,Fast Food,238.0,10.3,29.1,19.7,1.1,5.4,809.27
+Spinach,Vegetables,140.9,1.1,4.6,0.0,2.9,1.3,38.76
+Banana,Fruits,180.3,1.9,11.7,0.5,2.4,18.0,113.65
+Paneer,Dairy,186.1,3.2,8.0,21.8,0.4,4.2,441.71
+Whole Wheat Bread,Grains & Cereals,105.4,11.5,77.9,3.7,2.7,7.0,427.85
+Chicken Thigh,Meat & Poultry,105.2,22.1,2.6,9.0,0.0,0.3,188.23
+Mackerel,Seafood,187.5,22.3,0.3,2.1,0.0,0.0,199.27
+Green Peas,Legumes,128.6,5.2,26.4,2.3,9.0,1.4,215.66
+Pumpkin Seeds,Nuts & Seeds,37.1,23.6,22.3,53.9,5.0,5.6,249.0
+Banana Chips,Snacks,59.2,6.7,53.0,29.6,2.6,20.5,315.58
+Fruit Smoothie,Beverages,264.2,1.2,5.2,0.3,0.3,1.1,75.2
+Gulab Jamun,Desserts,89.7,3.4,54.8,14.9,1.8,42.5,344.37
+Cheese Pizza Slice,Fast Food,208.6,10.4,33.9,17.6,1.3,6.1,709.26
+Carrot,Vegetables,190.8,2.0,2.9,0.3,4.2,2.8,58.84
+Mango,Fruits,174.6,0.8,23.6,0.5,1.7,18.8,187.34
+Greek Yogurt,Dairy,216.9,2.5,4.6,16.1,0.1,5.5,370.7
+Cornflakes,Grains & Cereals,57.7,6.6,55.9,3.7,7.6,10.4,165.94
+Pork Loin,Meat & Poultry,162.3,24.4,1.1,13.6,0.2,0.5,381.26
+Pomfret,Seafood,150.7,15.7,1.9,7.8,0.1,0.5,206.76
+Chana Dal,Legumes,164.4,6.4,24.9,1.9,5.1,2.3,251.72
+Hazelnuts,Nuts & Seeds,21.6,15.0,16.4,44.1,3.6,4.2,113.46
+Potato Chips,Snacks,58.8,6.6,51.2,40.0,3.7,16.7,371.6
+Orange Juice,Beverages,202.5,1.1,10.5,0.3,0.7,6.4,102.66
+Chocolate Cake,Desserts,109.0,5.8,42.9,13.6,0.6,32.0,348.34
+Chicken Burger,Fast Food,245.9,11.1,28.1,10.7,1.9,8.7,627.93
+Bell Pepper,Vegetables,176.2,2.0,7.7,0.6,3.1,5.8,89.0
+Papaya,Fruits,155.2,1.0,8.3,0.4,2.5,14.0,66.29
+Butter,Dairy,126.8,4.7,11.0,17.7,0.2,7.4,287.6
+Ragi,Grains & Cereals,158.4,12.3,77.7,4.6,4.7,8.2,667.31
+Keema,Meat & Poultry,231.8,27.9,0.2,3.2,0.0,0.2,325.09
+Tilapia,Seafood,165.6,18.0,0.9,6.2,0.0,0.1,216.93
+Boiled Chickpeas,Legumes,108.7,8.9,18.0,2.3,8.0,0.8,161.41
+Cashews,Nuts & Seeds,37.7,19.6,20.2,44.5,5.2,4.5,213.94
+Roasted Peanuts,Snacks,40.5,7.1,58.2,22.3,1.9,9.8,190.05
+Sweet Tea,Beverages,283.2,1.5,3.4,1.4,0.6,6.8,91.93
+Donut,Desserts,92.2,4.7,44.7,17.3,0.4,34.9,329.91
+Fried Chicken,Fast Food,299.9,14.0,37.7,11.6,2.4,5.8,1001.07
+Tomato,Vegetables,133.1,1.2,7.7,0.3,3.8,4.4,60.78
+Watermelon,Fruits,187.8,1.8,21.5,0.7,1.9,9.3,185.42
+Buttermilk,Dairy,118.1,7.7,13.6,3.5,0.3,5.4,141.34
+Upma,Grains & Cereals,146.9,9.1,78.5,2.9,9.3,9.0,573.32
+Chicken Breast,Meat & Poultry,171.2,22.9,1.2,6.5,0.1,0.9,262.01
+Rohu Fish,Seafood,163.0,17.4,1.0,10.9,0.0,0.4,276.22
+Moong Dal,Legumes,163.2,6.3,24.5,0.9,5.8,2.3,236.52
+Peanuts,Nuts & Seeds,36.0,23.6,8.1,56.5,10.9,4.7,232.01
+Cookies,Snacks,33.3,7.1,58.1,33.8,1.7,19.8,183.36
+Coconut Water,Beverages,307.2,0.8,3.3,1.7,0.2,4.7,100.69
+Jalebi,Desserts,75.9,2.6,47.2,14.9,0.7,20.2,260.84
+Veg Wrap,Fast Food,274.6,8.2,34.3,19.4,1.1,5.2,902.44
+Cabbage,Vegetables,236.6,1.5,8.0,0.2,4.2,7.4,109.65
+Pomegranate,Fruits,119.0,0.8,10.7,0.5,2.0,15.2,63.72
+Whole Milk,Dairy,189.3,3.0,3.1,21.4,0.4,6.9,400.16
+White Rice,Grains & Cereals,146.1,7.3,66.8,3.1,7.5,2.6,500.17
+Mutton Curry Cut,Meat & Poultry,205.3,20.0,0.1,12.7,0.2,0.7,397.98
+Tuna,Seafood,129.1,17.6,1.1,3.5,0.1,0.1,136.38
+Kidney Beans,Legumes,187.9,7.4,24.0,1.6,8.6,2.6,295.86
+Sunflower Seeds,Nuts & Seeds,20.5,21.4,19.8,53.1,5.6,5.0,133.74
+Popcorn,Snacks,56.4,7.4,45.9,30.5,2.8,9.0,263.66
+Lemonade,Beverages,259.7,3.1,10.7,0.5,0.2,4.1,149.03
+Pastry,Desserts,65.8,6.0,40.7,26.6,0.5,44.5,286.95
+Pav Bhaji,Fast Food,209.9,11.9,26.8,22.3,1.5,6.8,714.31
+Spinach,Vegetables,238.3,0.6,4.2,0.2,2.2,2.0,59.73
+Banana,Fruits,134.4,1.3,14.1,0.4,2.5,10.8,92.17
+Paneer,Dairy,152.5,7.1,14.8,6.0,0.2,4.6,220.05
+Whole Wheat Bread,Grains & Cereals,106.2,7.4,69.5,3.5,2.5,11.2,366.78
+Chicken Thigh,Meat & Poultry,151.6,23.0,2.8,9.4,0.1,0.8,293.23
+Mackerel,Seafood,186.2,25.9,1.1,10.5,0.1,0.4,369.53
+Green Peas,Legumes,116.5,6.5,15.3,2.0,8.1,1.6,143.57
+Pumpkin Seeds,Nuts & Seeds,38.7,20.1,24.6,47.6,7.9,5.8,236.31
+Banana Chips,Snacks,46.8,7.7,57.0,35.3,1.2,15.1,268.95
+Fruit Smoothie,Beverages,232.1,1.5,7.8,1.1,0.0,5.7,110.73
+Gulab Jamun,Desserts,111.2,5.9,42.5,13.5,0.7,31.9,351.92
+Cheese Pizza Slice,Fast Food,212.6,8.4,25.6,13.4,2.7,7.4,544.04
+Carrot,Vegetables,234.1,2.8,6.3,0.8,4.6,4.4,123.92
+Mango,Fruits,100.4,1.4,9.5,0.7,1.7,7.8,55.05
+Greek Yogurt,Dairy,118.8,7.9,8.5,7.9,0.5,13.3,159.33
+Cornflakes,Grains & Cereals,93.1,11.2,73.3,3.2,8.7,1.5,346.51
+Pork Loin,Meat & Poultry,128.8,25.5,2.5,4.0,0.0,0.0,191.38
+Pomfret,Seafood,167.4,20.5,1.1,10.0,0.0,0.0,303.14
+Chana Dal,Legumes,160.8,9.3,15.3,1.8,8.5,1.9,208.11
+Hazelnuts,Nuts & Seeds,26.9,16.2,21.2,62.5,10.8,4.2,197.49
+Potato Chips,Snacks,31.0,6.2,50.1,23.4,1.5,14.2,136.38
+Orange Juice,Beverages,236.8,0.2,13.0,0.1,0.1,5.9,136.3
+Chocolate Cake,Desserts,70.5,5.6,45.1,19.0,1.1,20.9,273.68
+Chicken Burger,Fast Food,188.5,8.7,33.4,11.5,1.2,6.4,514.76
+Bell Pepper,Vegetables,160.9,0.5,4.5,0.2,4.2,7.4,48.96
+Papaya,Fruits,156.5,1.5,18.7,0.3,1.3,12.7,133.29
+Butter,Dairy,176.4,4.9,6.7,6.9,0.2,10.2,189.33
+Ragi,Grains & Cereals,168.6,6.8,75.5,3.9,2.6,3.1,623.34
+Keema,Meat & Poultry,197.6,28.5,1.8,12.3,0.1,0.2,450.81
+Tilapia,Seafood,187.0,16.7,1.8,5.8,0.0,0.2,237.33
+Boiled Chickpeas,Legumes,138.2,7.5,29.3,2.7,8.1,2.6,259.65
+Cashews,Nuts & Seeds,26.1,20.8,22.1,47.7,8.9,6.8,150.99
+Roasted Peanuts,Snacks,35.7,5.5,49.0,22.2,3.4,16.1,143.31
+Sweet Tea,Beverages,287.5,1.2,6.3,1.7,0.7,9.9,130.2
+Donut,Desserts,100.8,3.0,41.6,11.9,1.7,35.3,284.6
+Fried Chicken,Fast Food,156.4,8.1,34.5,25.0,1.6,4.3,634.24
+Tomato,Vegetables,106.0,1.1,6.5,0.6,2.4,3.8,43.95
+Watermelon,Fruits,104.1,0.9,13.6,0.1,2.9,18.2,67.25
+Buttermilk,Dairy,214.9,3.5,10.2,23.1,0.2,6.8,539.87
+Upma,Grains & Cereals,146.5,8.0,59.0,3.1,9.0,8.3,454.47
+Chicken Breast,Meat & Poultry,144.7,21.3,1.0,3.9,0.2,0.6,186.08
+Rohu Fish,Seafood,175.3,23.0,1.5,10.2,0.0,0.5,329.13
+Moong Dal,Legumes,136.4,8.3,28.6,2.8,7.0,1.5,249.72
+Peanuts,Nuts & Seeds,39.0,21.4,8.6,47.0,10.2,6.4,215.38
+Cookies,Snacks,26.1,7.1,61.6,26.3,1.4,24.9,138.31
+Coconut Water,Beverages,324.4,2.3,9.5,0.5,0.7,2.8,177.05
+Jalebi,Desserts,56.0,4.8,54.6,13.8,0.7,39.5,208.82
+Veg Wrap,Fast Food,192.7,11.2,39.0,18.4,1.8,9.8,728.93
+Cabbage,Vegetables,202.3,1.5,6.1,0.3,3.8,1.3,77.93
+Pomegranate,Fruits,116.3,0.9,10.5,0.8,3.2,11.6,67.01
+Whole Milk,Dairy,209.1,10.2,6.2,19.5,0.2,5.1,531.19
+White Rice,Grains & Cereals,118.3,6.3,79.0,1.9,5.2,4.6,426.09
+Mutton Curry Cut,Meat & Poultry,239.2,18.1,2.8,17.2,0.2,0.8,591.49
+Tuna,Seafood,109.2,18.9,0.9,10.0,0.0,0.4,179.85
+Kidney Beans,Legumes,181.9,6.0,29.2,0.9,4.6,2.5,298.84
+Sunflower Seeds,Nuts & Seeds,28.9,24.6,12.7,61.4,5.8,4.7,206.28
+Popcorn,Snacks,31.2,6.3,60.0,23.5,3.8,15.6,153.0
+Lemonade,Beverages,311.0,0.7,0.9,1.4,0.1,1.4,59.02
+Pastry,Desserts,94.3,5.2,54.9,12.8,1.6,22.4,331.8
+Pav Bhaji,Fast Food,190.2,14.6,28.1,20.2,1.3,4.5,696.46
+Spinach,Vegetables,232.6,3.0,2.3,0.0,2.4,3.6,60.02
+Banana,Fruits,166.3,1.8,10.4,0.6,3.2,11.1,107.38
+Paneer,Dairy,103.5,5.2,13.3,6.6,0.5,6.4,139.43
+Whole Wheat Bread,Grains & Cereals,98.0,7.4,67.7,1.7,7.6,10.5,320.84
+Chicken Thigh,Meat & Poultry,170.2,22.8,2.4,16.0,0.0,0.5,435.75
+Mackerel,Seafood,157.0,16.2,2.0,3.1,0.0,0.1,150.63
+Green Peas,Legumes,130.6,6.2,21.4,2.2,5.4,2.8,191.0
+Pumpkin Seeds,Nuts & Seeds,35.0,18.4,24.7,54.9,5.8,6.2,239.28
+Banana Chips,Snacks,45.9,6.4,52.4,20.0,3.9,16.0,201.96
+Fruit Smoothie,Beverages,268.2,1.9,4.1,1.9,0.6,8.7,113.6
+Gulab Jamun,Desserts,71.2,2.3,43.8,13.5,2.0,42.0,216.36
+Cheese Pizza Slice,Fast Food,134.9,12.7,27.2,23.9,1.7,3.7,494.29
+Carrot,Vegetables,122.2,1.1,10.6,0.2,1.8,7.2,64.3
+Mango,Fruits,167.7,1.1,22.7,0.5,1.4,19.8,163.2
+Greek Yogurt,Dairy,207.5,9.5,11.4,9.9,0.2,10.9,348.34
+Cornflakes,Grains & Cereals,166.6,10.5,62.4,3.9,7.5,5.1,579.49
+Pork Loin,Meat & Poultry,186.2,18.1,1.7,16.9,0.2,0.4,451.27
+Pomfret,Seafood,155.7,20.8,0.1,13.5,0.1,0.3,322.78
+Chana Dal,Legumes,128.7,8.0,21.4,2.3,4.2,2.3,185.69
+Hazelnuts,Nuts & Seeds,21.4,21.3,11.8,53.2,9.7,5.0,130.83
+Potato Chips,Snacks,50.7,5.2,57.8,32.3,1.0,17.2,279.35
+Orange Juice,Beverages,210.7,0.2,4.3,0.8,0.2,5.5,52.52
+Chocolate Cake,Desserts,77.4,4.7,41.6,24.2,0.1,34.1,316.15
+Chicken Burger,Fast Food,116.3,13.5,30.6,19.3,1.5,7.1,405.89
+Bell Pepper,Vegetables,143.3,1.0,13.5,0.4,3.4,3.5,100.04
+Papaya,Fruits,101.5,1.8,21.6,0.2,3.2,12.4,102.87
+Butter,Dairy,198.6,3.3,5.5,17.6,0.1,12.8,370.96
+Ragi,Grains & Cereals,184.6,10.9,76.7,3.2,6.9,6.2,738.59
+Keema,Meat & Poultry,126.0,24.9,2.3,11.1,0.2,0.4,255.9
+Tilapia,Seafood,189.2,19.6,0.0,1.5,0.0,0.4,175.89
+Boiled Chickpeas,Legumes,112.4,5.5,23.0,2.6,7.7,1.2,174.74
+Cashews,Nuts & Seeds,35.2,23.5,8.1,61.3,3.8,2.3,242.66
+Roasted Peanuts,Snacks,52.0,5.7,63.1,36.8,1.2,17.3,320.37
+Sweet Tea,Beverages,349.5,3.4,9.6,0.2,0.2,10.7,184.29
+Donut,Desserts,106.0,2.4,54.1,11.3,0.2,42.2,348.4
+Fried Chicken,Fast Food,277.3,12.6,29.8,23.6,1.6,4.9,1044.9
+Tomato,Vegetables,237.1,2.7,4.0,1.0,3.5,5.7,100.59
+Watermelon,Fruits,106.8,1.5,18.9,1.2,3.7,15.8,104.07
+Buttermilk,Dairy,214.0,11.5,14.6,24.2,0.0,7.2,690.66
+Upma,Grains & Cereals,48.5,6.7,70.2,1.9,6.4,2.9,169.64
+Chicken Breast,Meat & Poultry,153.8,28.9,2.2,23.5,0.1,0.4,486.21
+Rohu Fish,Seafood,152.7,18.9,1.5,12.1,0.1,0.1,301.23
+Moong Dal,Legumes,199.6,5.2,25.6,1.9,7.6,0.7,320.43
+Peanuts,Nuts & Seeds,36.3,19.6,25.2,49.1,8.9,6.4,222.03
+Cookies,Snacks,52.0,5.9,61.4,33.8,1.4,7.3,299.75
+Coconut Water,Beverages,290.8,1.8,12.7,1.3,0.4,5.4,205.12
+Jalebi,Desserts,54.4,4.3,47.7,24.5,2.1,40.8,235.65
+Veg Wrap,Fast Food,258.8,11.6,26.1,20.2,2.4,6.7,895.31
+Cabbage,Vegetables,208.1,1.0,6.6,0.4,3.8,6.9,90.38
+Pomegranate,Fruits,179.2,0.9,10.7,1.0,1.7,13.8,110.22
+Whole Milk,Dairy,231.1,5.0,7.0,16.5,0.3,4.1,451.53
+White Rice,Grains & Cereals,130.8,9.8,60.0,3.3,5.0,3.2,421.72
+Mutton Curry Cut,Meat & Poultry,249.2,28.7,2.8,7.8,0.0,0.8,467.51
+Tuna,Seafood,151.4,15.3,0.5,1.1,0.1,0.3,113.72
+Kidney Beans,Legumes,167.3,6.3,24.0,0.6,7.2,2.3,243.67
+Sunflower Seeds,Nuts & Seeds,25.8,23.3,22.0,46.7,4.6,5.2,148.67
+Popcorn,Snacks,49.9,4.6,48.3,29.6,2.8,8.5,245.61
+Lemonade,Beverages,206.3,1.1,3.1,1.6,1.0,6.4,67.67
+Pastry,Desserts,86.2,2.6,56.1,11.7,2.9,34.7,290.7
+Pav Bhaji,Fast Food,112.2,8.2,36.7,11.7,2.7,6.7,344.87
+Spinach,Vegetables,195.3,0.6,3.8,0.8,2.9,7.2,61.45
+Banana,Fruits,127.3,0.7,10.3,1.4,1.3,13.9,76.23
+Paneer,Dairy,169.9,7.9,12.6,19.5,0.4,6.2,438.9
+Whole Wheat Bread,Grains & Cereals,170.8,12.0,62.6,4.4,3.5,9.8,588.78
+Chicken Thigh,Meat & Poultry,140.1,18.6,3.0,8.5,0.1,0.2,228.83
+Mackerel,Seafood,159.4,17.6,0.8,10.0,0.1,0.3,258.91
+Green Peas,Legumes,136.8,9.1,15.6,1.2,4.3,2.2,163.14
+Pumpkin Seeds,Nuts & Seeds,32.8,18.5,16.6,53.6,3.4,4.2,209.31
+Banana Chips,Snacks,42.4,4.3,58.4,26.2,1.0,8.1,210.28
+Fruit Smoothie,Beverages,319.9,2.4,3.4,1.5,0.3,8.1,121.27
+Gulab Jamun,Desserts,102.9,2.2,48.4,29.9,2.9,25.5,470.1
+Cheese Pizza Slice,Fast Food,167.3,9.1,35.0,17.5,2.1,8.8,582.2
+Carrot,Vegetables,116.2,1.4,2.6,0.4,4.8,4.4,32.11
+Mango,Fruits,181.6,1.9,23.4,0.9,2.1,14.5,213.44
+Greek Yogurt,Dairy,109.1,10.2,8.5,3.4,0.3,4.7,109.86
+Cornflakes,Grains & Cereals,152.5,11.2,76.4,5.7,9.7,9.1,645.66
+Pork Loin,Meat & Poultry,211.6,25.5,0.4,4.3,0.0,0.8,311.27
+Pomfret,Seafood,187.1,25.8,1.8,2.4,0.1,0.4,250.17
+Chana Dal,Legumes,112.4,5.6,28.9,0.9,5.8,1.6,176.17
+Hazelnuts,Nuts & Seeds,28.5,24.9,25.4,63.2,5.3,3.1,225.58
+Potato Chips,Snacks,38.7,4.0,60.6,39.9,2.6,12.8,253.83
+Orange Juice,Beverages,233.8,0.9,7.0,0.9,0.5,11.0,95.75
+Chocolate Cake,Desserts,94.5,2.2,38.4,21.4,2.4,42.2,344.24
+Chicken Burger,Fast Food,145.2,9.1,31.0,15.0,2.7,6.4,424.29
+Bell Pepper,Vegetables,221.6,0.8,13.9,0.1,1.1,2.3,135.72
+Papaya,Fruits,103.3,1.3,14.1,0.1,3.6,9.5,73.32
+Butter,Dairy,152.3,2.8,4.1,20.1,0.2,5.7,326.98
+Ragi,Grains & Cereals,99.9,6.5,57.9,4.7,7.5,11.7,308.93
+Keema,Meat & Poultry,226.7,24.5,1.9,6.1,0.1,0.2,377.01
+Tilapia,Seafood,160.0,19.7,1.9,14.7,0.0,0.2,342.12
+Boiled Chickpeas,Legumes,138.7,6.9,18.9,2.9,6.1,2.4,195.73
+Cashews,Nuts & Seeds,26.8,23.6,7.0,45.2,5.9,5.4,141.89
+Roasted Peanuts,Snacks,35.1,5.3,49.9,20.1,2.6,7.3,141.97
+Sweet Tea,Beverages,228.6,2.5,3.7,0.7,0.2,12.4,70.93
+Donut,Desserts,92.8,3.8,39.7,13.1,0.3,36.0,273.72
+Fried Chicken,Fast Food,244.2,13.4,29.9,23.8,2.5,8.6,916.77
+Tomato,Vegetables,100.6,1.2,7.5,0.1,2.8,1.3,40.45
+Watermelon,Fruits,165.2,1.4,17.6,0.5,2.7,18.6,134.82
+Buttermilk,Dairy,158.8,6.6,7.1,17.6,0.5,7.7,334.13
+Upma,Grains & Cereals,108.9,9.4,79.8,5.2,5.2,4.5,447.21
+Chicken Breast,Meat & Poultry,207.9,24.3,2.4,17.5,0.0,0.7,549.84
+Rohu Fish,Seafood,148.6,21.9,1.2,12.7,0.0,0.1,314.37
+Moong Dal,Legumes,150.6,7.1,26.8,0.9,6.3,3.0,239.54
+Peanuts,Nuts & Seeds,36.9,16.5,21.2,52.3,5.3,2.2,234.51
+Cookies,Snacks,43.7,7.0,52.6,32.0,1.7,8.1,236.35
+Coconut Water,Beverages,221.9,0.7,6.1,0.9,0.2,7.3,79.2
+Jalebi,Desserts,113.6,2.5,47.1,16.2,1.4,30.8,368.18
+Veg Wrap,Fast Food,233.7,13.7,28.4,15.3,1.2,5.9,759.77
+Cabbage,Vegetables,125.1,1.9,10.3,0.2,1.1,6.5,68.09
+Pomegranate,Fruits,120.5,1.9,24.4,0.9,2.1,17.8,139.37
+Whole Milk,Dairy,172.3,5.6,14.0,23.0,0.3,4.2,482.29
+White Rice,Grains & Cereals,174.1,13.1,58.5,1.3,8.3,5.4,526.53
+Mutton Curry Cut,Meat & Poultry,189.1,27.6,0.1,3.6,0.1,0.2,269.41
+Tuna,Seafood,105.9,15.4,1.5,3.5,0.1,0.4,104.67
+Kidney Beans,Legumes,150.5,6.3,20.8,0.7,8.2,1.9,191.69
+Sunflower Seeds,Nuts & Seeds,39.8,18.3,25.7,59.1,10.4,6.5,289.95
+Popcorn,Snacks,32.2,7.2,61.1,32.9,1.8,24.3,180.62
+Lemonade,Beverages,306.4,2.5,1.2,1.4,0.8,4.5,88.72
+Pastry,Desserts,87.2,5.4,58.8,13.1,2.1,32.6,345.94
+Pav Bhaji,Fast Food,122.0,11.4,34.0,13.5,1.8,9.1,353.03
+Spinach,Vegetables,165.5,1.0,13.0,0.6,2.6,2.7,107.21
+Banana,Fruits,133.7,1.1,16.0,1.1,2.1,12.6,109.35
+Paneer,Dairy,142.6,9.1,13.5,22.7,0.4,8.0,419.27
+Whole Wheat Bread,Grains & Cereals,187.1,13.6,73.2,4.0,8.2,9.3,744.05
+Chicken Thigh,Meat & Poultry,176.2,23.2,0.8,14.0,0.1,0.9,408.98
+Mackerel,Seafood,135.9,18.8,1.3,8.0,0.0,0.4,202.87
+Green Peas,Legumes,197.3,6.0,23.3,2.3,8.4,0.6,313.82
+Pumpkin Seeds,Nuts & Seeds,29.3,17.8,11.3,50.2,10.0,3.5,168.6
+Banana Chips,Snacks,34.7,7.5,58.2,35.1,1.5,22.5,201.22
+Fruit Smoothie,Beverages,220.0,3.4,2.8,0.3,0.6,4.1,66.5
+Gulab Jamun,Desserts,61.3,5.0,54.8,13.1,1.7,40.3,228.62
+Cheese Pizza Slice,Fast Food,141.8,8.0,32.9,12.9,2.4,9.7,397.6
+Carrot,Vegetables,180.1,1.0,2.2,0.8,2.7,7.6,45.97
+Mango,Fruits,152.8,1.0,11.4,1.3,3.1,11.4,105.12
+Greek Yogurt,Dairy,170.0,9.8,4.0,1.1,0.1,7.3,109.8
+Cornflakes,Grains & Cereals,102.2,9.3,66.0,1.7,10.2,7.2,342.77
+Pork Loin,Meat & Poultry,225.7,21.8,2.6,15.7,0.1,0.9,548.07
+Pomfret,Seafood,176.1,17.5,0.3,10.5,0.0,0.3,284.41
+Chana Dal,Legumes,147.2,6.4,22.4,1.2,7.3,2.4,199.02
+Hazelnuts,Nuts & Seeds,25.3,20.1,22.0,48.7,8.9,5.6,153.11
+Potato Chips,Snacks,39.1,7.4,50.0,34.7,3.9,22.3,222.88
+Orange Juice,Beverages,263.5,3.5,8.0,0.2,0.0,10.3,132.85
+Chocolate Cake,Desserts,118.2,3.4,53.9,19.3,2.6,38.4,478.82
+Chicken Burger,Fast Food,233.0,9.8,34.9,10.3,3.0,4.8,665.93
+Bell Pepper,Vegetables,156.1,0.9,13.0,0.0,2.8,4.3,90.49
+Papaya,Fruits,104.1,1.8,13.6,0.9,3.6,17.0,81.32
+Butter,Dairy,126.9,2.5,10.1,14.6,0.4,4.6,231.38
+Ragi,Grains & Cereals,88.6,7.2,66.7,5.4,7.9,2.5,326.77
+Keema,Meat & Poultry,145.4,23.4,0.1,7.8,0.1,1.0,237.6
+Tilapia,Seafood,105.1,20.6,0.2,4.5,0.1,0.4,136.25
+Boiled Chickpeas,Legumes,189.2,5.9,16.8,2.0,6.5,2.4,217.81
+Cashews,Nuts & Seeds,31.2,24.2,17.9,49.4,9.8,2.2,190.46
+Roasted Peanuts,Snacks,30.6,5.1,62.3,24.8,3.5,6.6,152.62
+Sweet Tea,Beverages,252.9,3.0,2.0,1.8,0.2,5.9,88.25
+Donut,Desserts,93.2,5.8,46.0,23.8,1.7,32.5,393.44
+Fried Chicken,Fast Food,225.0,12.9,33.0,19.7,2.2,6.0,843.44
+Tomato,Vegetables,212.4,2.4,14.6,1.0,4.3,5.2,180.12
+Watermelon,Fruits,151.4,1.1,12.4,0.0,3.9,18.2,93.1
+Buttermilk,Dairy,136.7,8.9,8.2,20.2,0.5,6.8,340.63
+Upma,Grains & Cereals,65.6,6.7,64.9,1.1,3.0,3.3,203.66
+Chicken Breast,Meat & Poultry,207.3,19.3,2.6,7.9,0.0,0.0,327.2
+Rohu Fish,Seafood,185.2,20.6,0.2,14.8,0.0,0.2,410.35
+Moong Dal,Legumes,101.3,6.3,27.1,1.2,4.0,1.6,155.67
+Peanuts,Nuts & Seeds,21.2,21.4,19.2,48.2,8.6,5.4,130.52
+Cookies,Snacks,52.8,6.3,60.8,25.3,1.4,19.0,265.22
+Coconut Water,Beverages,215.0,0.1,11.5,0.4,0.3,8.2,106.89
+Jalebi,Desserts,96.9,2.1,57.9,16.2,2.0,44.7,371.49
+Veg Wrap,Fast Food,184.8,11.6,30.7,19.0,2.9,8.5,618.57
+Cabbage,Vegetables,220.9,2.7,3.8,0.8,2.0,6.0,88.59
+Pomegranate,Fruits,143.5,0.5,22.4,0.6,2.0,13.6,141.83
+Whole Milk,Dairy,199.1,3.4,8.2,22.3,0.0,8.0,490.8
+White Rice,Grains & Cereals,181.8,10.8,75.6,2.3,5.2,11.3,706.79
+Mutton Curry Cut,Meat & Poultry,168.4,23.7,1.4,4.3,0.2,0.8,237.17
+Tuna,Seafood,162.3,18.8,0.2,11.0,0.1,0.1,271.48
+Kidney Beans,Legumes,160.6,5.6,21.9,1.7,4.8,1.8,221.43
+Sunflower Seeds,Nuts & Seeds,36.8,16.5,25.0,50.5,8.0,5.1,214.41
+Popcorn,Snacks,39.6,7.4,57.5,29.0,2.2,12.6,208.43
+Lemonade,Beverages,286.7,1.5,5.5,0.1,0.3,9.8,84.05
+Pastry,Desserts,51.0,4.2,56.4,25.9,0.3,44.4,233.85
+Pav Bhaji,Fast Food,101.7,13.5,30.0,19.0,1.7,3.4,360.48
+Spinach,Vegetables,102.5,0.7,9.9,0.5,2.8,5.8,55.15
+Banana,Fruits,188.5,1.6,23.5,0.7,1.2,17.4,207.24
+Paneer,Dairy,147.6,4.4,3.5,15.0,0.5,10.5,246.27
+Whole Wheat Bread,Grains & Cereals,133.3,12.7,66.9,5.9,5.5,4.2,520.84
+Chicken Thigh,Meat & Poultry,153.2,29.7,1.5,11.5,0.1,0.5,338.81
+Mackerel,Seafood,150.5,19.2,0.8,9.4,0.0,0.3,256.31
+Green Peas,Legumes,171.4,8.6,26.4,2.6,5.9,1.3,293.93
+Pumpkin Seeds,Nuts & Seeds,23.2,21.3,18.7,60.2,4.5,4.8,162.92
+Banana Chips,Snacks,43.4,6.7,54.9,27.6,3.7,20.5,222.73
+Fruit Smoothie,Beverages,215.9,1.5,11.0,0.3,0.3,4.4,115.92
+Gulab Jamun,Desserts,96.1,2.8,50.9,13.8,0.4,44.2,317.95
+Cheese Pizza Slice,Fast Food,272.2,11.4,25.5,18.6,2.1,3.1,822.58
+Carrot,Vegetables,160.1,2.4,8.4,0.6,2.0,7.8,83.41
+Mango,Fruits,199.1,0.3,18.8,1.5,3.7,16.1,183.77
+Greek Yogurt,Dairy,130.3,5.4,10.2,2.5,0.1,7.6,116.26
+Cornflakes,Grains & Cereals,93.9,14.0,64.3,5.3,5.7,1.7,357.53
+Pork Loin,Meat & Poultry,112.8,21.9,0.6,5.5,0.0,0.9,160.46
+Pomfret,Seafood,156.3,20.8,0.7,8.0,0.0,0.3,241.43
+Chana Dal,Legumes,102.6,7.8,21.6,1.4,5.1,1.8,142.43
+Hazelnuts,Nuts & Seeds,36.0,21.8,9.3,45.3,8.2,4.0,191.8
+Potato Chips,Snacks,46.8,7.8,53.5,25.3,2.8,17.6,231.43
+Orange Juice,Beverages,202.1,0.2,2.9,0.3,0.1,12.0,33.43
+Chocolate Cake,Desserts,83.4,5.8,44.0,20.5,2.1,27.9,330.48
+Chicken Burger,Fast Food,220.6,13.2,37.1,24.8,1.7,8.2,922.27
+Bell Pepper,Vegetables,142.0,2.3,11.7,0.9,2.4,5.6,100.17
+Papaya,Fruits,116.9,1.6,21.4,0.6,2.5,11.3,119.85
+Butter,Dairy,186.1,11.1,6.7,24.4,0.1,11.0,535.19
+Ragi,Grains & Cereals,83.3,11.2,72.7,6.4,7.1,0.8,357.44
+Keema,Meat & Poultry,208.5,23.9,1.6,16.1,0.1,0.8,533.03
+Tilapia,Seafood,163.2,22.9,1.8,9.1,0.1,0.1,285.14
+Boiled Chickpeas,Legumes,135.7,7.4,19.3,1.9,5.8,2.8,180.22
+Cashews,Nuts & Seeds,23.5,20.8,15.3,46.0,7.5,4.7,142.32
+Roasted Peanuts,Snacks,44.6,6.3,60.5,27.2,1.7,24.0,229.3
+Sweet Tea,Beverages,344.8,2.9,2.8,1.6,0.7,12.6,129.73
+Donut,Desserts,50.4,5.1,42.9,22.6,1.8,21.4,197.59
+Fried Chicken,Fast Food,267.7,8.9,28.9,23.6,2.0,8.6,1015.07
+Tomato,Vegetables,189.8,1.5,13.2,0.7,4.0,7.3,138.43
+Watermelon,Fruits,152.8,1.8,15.7,1.2,1.2,7.0,125.46
+Buttermilk,Dairy,157.2,11.8,3.1,18.1,0.1,13.6,346.28
+Upma,Grains & Cereals,117.2,6.2,68.8,6.9,10.8,4.0,475.81
