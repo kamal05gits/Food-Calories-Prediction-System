@@ -79,16 +79,6 @@
 | Validation              | Evaluate model using R², RMSE, MAE and cross-validation    |
 | Demonstration           | Present working student performance prediction application |
 
-### Day-Wise Plan
-
-| Day   | Activity |
-|:------|:---------|
-| Day 1 | Requirement Analysis (+ console prototype, no ML/Tk) |
-| Day 2 | System Design + UI (Tkinter frames, layout, events) |
-| Day 3 | Implementation (Machine Learning model development) |
-| Day 4 | Integration + Testing |
-| Day 5 | Validation + Capstone |
-
 ### 5. Requirement Analysis
 #### 5.1 Functional Requirements
 The system should:
@@ -425,14 +415,6 @@ The model configuration includes:
 
 **Model Performance**
 
-Run:
-
-```bash
-python train_model.py
-```
-
-Results from the current execution of `train_model.py`:
-
 | Metric | Value |
 |:-------|:------|
 | Train / Test records | 800 / 200 |
@@ -477,4 +459,82 @@ The following table documents the test operations executed during the
 implemented in `test_operations.py` and was executed against the trained
 `calorie_model.pkl`.
 
+| Test ID | Module / Function | Test Operation | Expected Result | Actual Result | Status |
+|:--------|:------------------|:---------------|:----------------|:--------------|:------:|
+| TO-01 | train_model.py / calorie_model.pkl | Load trained model file with joblib | Model loads without error | Model loaded successfully |  Pass |
+| TO-02 | food_calorie_dataset_1000.csv | Check dataset record count and required columns | 1,000 records with all feature + target columns | 1,000 records, all required columns present |  Pass |
+| TO-03 | main.validate_inputs() | Validate a complete, in-range record | Returns parsed data, no error | Record accepted, no error |  Pass |
+| TO-04 | main.validate_inputs() | Submit form with an empty mandatory field | Validation error raised | Error: Please fill in all input fields. | Pass |
+| TO-05 | main.validate_inputs() | Enter non-numeric value in a nutrient field | "must be a numerical value" error | Error: 'Protein (g)' must be a numerical value. |  Pass |
+| TO-06 | main.validate_inputs() | Enter out-of-range nutrient value (fat = 150 g/100 g) | Range error raised | Error: 'Total Fat (g)' must fall between 0 and 100. |  Pass |
+| TO-07 | main.validate_inputs() | Enter invalid serving size (0 g) | Range error raised | Error: 'Serving Size (g)' must fall between 1 and 1000. |  Pass |
+| TO-08 | main.predict_single() + model | Predict calories for grilled chicken (150 g) | Prediction within ±1 RMSE (32 kcal) of Atwater estimate (~216.6 kcal) | 197.58 kcal (Atwater 216.6 kcal, diff 19.0 kcal) |  Pass |
+| TO-09 | fci.classify_food() | Classify 120 kcal serving | "Low Calorie" / "Low Caution" | ('Low Calorie', 'Low Caution') |  Pass |
+| TO-10 | fci.classify_food() | Classify 250 kcal serving | "Moderate Calorie" / "Medium Caution" | ('Moderate Calorie', 'Medium Caution') |  Pass |
+| TO-11 | fci.classify_food() | Classify 480 kcal serving | "High Calorie" / "High Caution" | ('High Calorie', 'High Caution') |  Pass |
+| TO-12 | fci.generate_recommendation() | Recommendation for high-fat, high-sugar dessert | Priority actions mentioning portion/fat and sugar | Priority actions: smaller portion/low-fat method; limit sugar; fiber-rich pairing; lean-protein pairing |  Pass |
+| TO-13 | fci.generate_recommendation() | Recommendation for a low-caution food (apple) | Positive "enjoy freely / fits diet" message | Enjoy freely; fits well into most balanced, calorie-conscious diets. |  Pass |
+| TO-14 | main.predict_batch_csv() | Batch-predict sample_batch_input.csv (7 foods) | 7 records predicted with output columns | 7 records processed and appended |  Pass |
+| TO-15 | main.append_to_master_csv() | Verify batch results appended to food_prediction.csv | Row count grows by 7, columns match record schema | food_prediction.csv has 7 rows with correct columns |  Pass |
+| TO-16 | functions.py (rule-based prototype) | Atwater estimate for 200 g serving (135 kcal/100 g food) | Exactly 270.0 kcal → Moderate Calorie | 270.00 kcal → Moderate Calorie |  Pass |
+| TO-17 | api.py (FastAPI) | Call /health and /predict endpoints | Health OK and valid prediction JSON returned | /health model_loaded=True; /predict → 197.58 kcal (Moderate Calorie) |  Pass |
+| TO-18 | main.append_to_master_xlsx() | Store user entry in the separate food_prediction.xlsx | Workbook created with header; rows appended on each entry | Workbook sheet 'Food Predictions': 1 header + 2 record rows appended |  Pass |
+
+**Result: 18/18 test operations passed.**
+
+---
+
+#### 18. Project Structure
+```text
+FoodCaloriePredictionSystem/
+├── README.md                        <- this file
+├── main.py                          <- full Tkinter app (validation, single + batch prediction, CSV + XLSX storage)
+├── app.py                           <- simple Tkinter prototype GUI (logs entries to CSV + XLSX too)
+├── functions.py                     <- Day 1 console prototype (rule-based)
+├── fci.py                           <- calorie classification + recommendation logic
+├── train_model.py                   <- dataset creation, cleaning, training, evaluation, saving
+├── api.py                           <- FastAPI prediction service
+├── test_operations.py               <- executes the Test Operation Table
+├── requirements.txt                 <- Python dependencies
+├── food_calorie_dataset_1000.csv    <- 1,000-record training dataset
+├── calorie_model.pkl                <- trained Random Forest model (joblib)
+├── sample_batch_input.csv           <- example batch input (7 foods)
+├── food_prediction.csv              <- stored prediction records (CSV log)
+└── food_prediction.xlsx             <- stored prediction records (Excel log)
+```
+
+#### 19. API Example
 ```bash
+curl -X POST http://127.0.0.1:8000/predict \
+  -H "Content-Type: application/json" \
+  -d '{"food_name": "Grilled Chicken",
+       "serving_size": 150, "protein": 28, "carbohydrates": 0,
+       "total_fat": 3.6, "dietary_fiber": 0, "sugars": 0}'
+```
+```json
+{
+  "food_name": "Grilled Chicken",
+  "predicted_calories": 197.58,
+  "calorie_class": "Moderate Calorie",
+  "diet_caution_level": "Medium Caution",
+  "recommendation": "Fits into a balanced diet; keep portions consistent with your daily calorie goal."
+}
+```
+
+---
+
+#### 20. Team & Contribution
+This project was developed by a team of **3 members** with **equal
+contribution **. Responsibilities were divided by module
+and V-Model stage, while the design decisions, code reviews and final
+integration were done collaboratively.
+
+| Member | Name | Reg. No. | Role | Work Owned (Modules) | V-Model Stages Covered |
+|:-------|:-----|:---------|:-----|:---------------------|:-----------------------|
+| Member 1 | Jaimani R | 2303610710421020 | Requirements, Design & Data Lead | Requirement analysis (§5), system design (§7-10), Day 1 console prototype (`functions.py`), dataset creation & cleaning pipeline (`train_model.py`, `food_calorie_dataset_1000.csv`) | Requirement Analysis, System Design |
+| Member 2 | Hariharan A | 2303610710421019 | ML & API Lead | Feature selection, Random Forest training & evaluation (`train_model.py` → `calorie_model.pkl`), classification + recommendation engine (`fci.py`), FastAPI service (`api.py`) | Implementation, Validation |
+| Member 3 | Kamalesh P | 2303610710421022 | Application, Integration & Testing Lead | Full Tkinter application (`main.py`), prototype GUI (`app.py`), UI-Model integration, test suite (`test_operations.py`), Test Operation Table (§17), documentation (`README.md`) | Integration, Testing, Demonstration |
+
+**Collaborative (shared) activities:** architecture review, debugging,
+model-metric review, batch-prediction verification and capstone
+demonstration preparation.
