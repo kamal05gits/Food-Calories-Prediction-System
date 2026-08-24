@@ -1,3 +1,9 @@
+# 📅 Day 1 – Problem Definition & System Designing
+
+> Part of the [Food Calories Prediction System](../README.md) — 3-Day Mini Project Development Documentation.
+
+---
+
 # Food-Calories-Prediction-System
 
 #### 1. Problem Statement:
@@ -453,6 +459,14 @@ The model configuration includes:
 
 ---
 
+# 📅 Day 2 – Machine Learning Model
+
+> Part of the [Food Calories Prediction System](../README.md) — 3-Day Mini Project Development Documentation.
+>
+> **Previous:** [Day 1 – Problem Definition & System Design](DAY1_PROBLEM_DEFINITION_AND_SYSTEM_DESIGN.md)
+
+---
+
 ### 17. Testing — Test Operation Table
 The following table documents the test operations executed during the
 **Integration + Testing** stage of the V-Model. Every operation is
@@ -481,6 +495,14 @@ implemented in `test_operations.py` and was executed against the trained
 | TO-18 | main.append_to_master_xlsx() | Store user entry in the separate food_prediction.xlsx | Workbook created with header; rows appended on each entry | Workbook sheet 'Food Predictions': 1 header + 2 record rows appended |  Pass |
 
 **Result: 18/18 test operations passed.**
+
+---
+
+# 📅 Day 3 – Integration, Testing & Final Documentation
+
+> Part of the [Food Calories Prediction System](../README.md) — 3-Day Mini Project Development Documentation.
+>
+> **Previous:** [Day 2 – Machine Learning Model](DAY2_MACHINE_LEARNING_MODEL.md)
 
 ---
 
@@ -538,3 +560,7 @@ integration were done collaboratively.
 **Collaborative (shared) activities:** architecture review, debugging,
 model-metric review, batch-prediction verification and capstone
 demonstration preparation.
+
+---
+
+**Back to:** [Main README](../README.md)
